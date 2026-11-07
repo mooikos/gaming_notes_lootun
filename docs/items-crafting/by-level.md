@@ -27,11 +27,21 @@ Deduplicated item progression clustered into:
 
 | Category | Weight / Defense Profile | Observed Pieces So Far | Confirmed Notes & Class Fit |
 | :--- | :--- | :--- | :--- |
-| **Weapons & Off-Hands (`Iron`)** | Physical / Shield | `Iron Spear` (`2H` Polearm), `Iron Shield` (Shield) | `Iron Spear` works for `2H` melee leveling (`Iron` `2H` Hammer likely exists too, not yet seen); `Iron Shield` for future shield runs |
+| **Weapons & Off-Hands (`Iron`)** | Physical / Shield | `Iron Spear` (`2H` Polearm), `Iron Shield` (Shield) | `Hammers` do **not** have an `Iron` (`Lv. 15–49`) base -> **`Iron Spear` is the default `2H` melee weapon** for this band (unless lucky `Desert Tarsus` drops); `Iron Shield` for shield runs |
 | **Armour — `Cloth`** | **Light** (`Armour + Barrier`) | `Cloth Hood` (Helm), `Cloth Mantle` (Shoulders), `Cloth Cloak` (Cloak), `Cloth Robes` (Chest), `Cloth Bracers` (Bracers), `Cloth Gloves` (Gloves), `Cloth Belt` (Belt) | Primary fit for **Mage** / Barrier setups |
 | **Armour — `Rough`** | **Medium** (`Armour + Evasion`) | `Rough Hood` (Helm), `Rough Pants` (Pants) | `Lv. 15–49` successor to starter `Leather` set |
 | **Armour — `Iron`** | **Heavy** (`Pure Armour`, no Evasion/Barrier) | `Iron Helmet` (Helm), `Iron Pauldrons` (Shoulders), `Iron Gloves` (Gloves), `Iron Belt` (Belt), `Iron Greaves` (Pants), `Iron Boots` (Boots) | Pure Armour mitigation -> natural fit for **Warrior** / **Paladin** armour setups |
 | **Accessories — `Iron`** | Standard | `Iron Chain` (Amulet), `Iron Band` (Ring), `Iron Trinket` (Trinket) | Complete 3-slot `Lv. 15–49` accessory upgrade over `Copper` |
+
+### `Lv. 50–99` Band (Starts Dropping Inside `Frigid Wasteland` [`Lv. 45 -> 52`] at Monster `Lv. 50+`)
+
+| Category | Weight / Defense Profile | Observed Pieces So Far | Confirmed Notes & Class Fit |
+| :--- | :--- | :--- | :--- |
+| **Weapons (`Lead`)** | Physical | `Lead Axe` (Axe) | First observed weapon of the `Lv. 50–99` `Lead` weapon tier |
+| **Armour — `Woven`** | **Light** (`Armour + Barrier`) | `Woven Hood` (Helm), `Woven Boots` (Boots) | `Lv. 50–99` Light set (succeeds `Cloth`) -> **Mage** / Barrier setups |
+| **Armour — `Heavy`** | **Medium** (`Armour + Evasion`) | `Heavy Pads` (Shoulders), `Heavy Pants` (Pants) | `Lv. 50–99` **Medium** set (succeeds `Leather` -> `Rough`; note `"Heavy"` here is the item name prefix, not Heavy weight!) |
+| **Armour — `Lead`** | **Heavy** (`Pure Armour`) | `Lead Bracers` (Bracers) | `Lv. 50–99` Heavy set (succeeds `Iron`) -> **Warrior** / **Paladin** armour setups |
+| **Accessories — `Lead`** | Standard | `Lead Trinket` (Trinket) | `Lv. 50–99` accessory tier (succeeds `Copper` -> `Iron`) |
 
 ---
 
@@ -70,6 +80,9 @@ Deduplicated item progression clustered into:
 | 7 | **`Scorched Plains`** (`Lv. 38 -> 45`) | `Scorched Bow` | `2H` Bow | `Divine` / Later | Lucky `Divine` bow drop for **Ranger** / later farming |
 | 7 | **`Scorched Plains`** (`Lv. 38 -> 45`) | `Wurm Carapace` | Shield | Boss / Notable | Lucky shield drop for future shield builds |
 | 7 | **`Scorched Plains`** (`Lv. 38 -> 45`) | `Royal Cuffs` | Bracers | Boss / Notable | Lucky bracers drop |
+| 8 | **`Frigid Wasteland`** (`Lv. 45 -> 52`) | `Frost Sting` | `1H` Sword | Boss / Notable | Lucky `1H` sword drop for non-`2H` builds |
+| 8 | **`Frigid Wasteland`** (`Lv. 45 -> 52`) | `Yeti Hide Hood` | Helm | Boss / Notable | Lucky helm drop |
+| 8 | **`Frigid Wasteland`** (`Lv. 45 -> 52`) | `Frozen Talisman` | Trinket | `Divine` / Later | Lucky `Divine` trinket drop |
 
 ---
 
@@ -77,5 +90,5 @@ Deduplicated item progression clustered into:
 
 > Kept separate until verified & fed from gameplay:
 - **Class Relics (`Warrior Relic`)**: Game docs note that Class Relic attribute values **scale dynamically with your character's level**, so a good Relic stays relevant without getting outleveled by base item level.
-- **`Divine` Items (`Brute's Pummeler`, `Spider Silk Wraps`, `Cloak of Purity`, `Ring of Manipulation`, `Rockwall`, `Scorched Bow`)**: Rare boss drops rolling fixed `10/10` attribute ranks + a unique non-rollable modifier (e.g., `Ring of Manipulation` grants `+10% Double Damage` vs targets below `100% Max HP`).
+- **`Divine` Items (`Brute's Pummeler`, `Spider Silk Wraps`, `Cloak of Purity`, `Ring of Manipulation`, `Rockwall`, `Scorched Bow`, `Frozen Talisman`)**: Rare boss drops rolling fixed `10/10` attribute ranks + a unique non-rollable modifier (e.g., `Ring of Manipulation` grants `+10% Double Damage` vs targets below `100% Max HP`).
 - **Scaling Early Boss Drops Later**: Unlocking **"Scale Monsters to Max Level"** and **Item Vault Research** later allows farming/crafting max-level versions of early dungeon exclusives.

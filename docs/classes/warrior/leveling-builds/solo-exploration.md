@@ -28,11 +28,16 @@ nav_order: 1
 - **Armour**: `Leather` (Medium — `Armour + Evasion`) set + `Wolf Pelt Cloak` (or `Leather Cloak` fallback)
 - **Accessories (`Lv. 10+`)**: `Copper Amulet`, `Copper Ring`, `Copper Trinket`
 
-### `Lv. 15–49` (Starts Mid-`Deep Forest` at `Lv. 15+` -> `Scorched Plains` -> Ongoing)
-- **Weapon (`2H`)**: `Iron Spear` (`2H` Polearm — standard base; `Desert Tarsus` in `Scorched Plains` is a lucky bonus `2H` Polearm if dropped)
+### `Lv. 15–49` (Starts Mid-`Deep Forest` at `Lv. 15+` -> Early `Frigid Wasteland`)
+- **Weapon (`2H`)**: **`Iron Spear`** (`2H` Polearm — confirmed default `2H` weapon for this band since `Hammers` lack an `Iron` base; `Desert Tarsus` in `Scorched Plains` is a lucky bonus upgrade if dropped)
 - **Armour**: Transition into **`Iron` (Heavy — pure `Armour`)** pieces (mixing `Rough` Medium pieces as higher-level upgrades drop)
 - **Accessories**: `Iron Chain` (Amulet), `Iron Band` (Ring), `Iron Trinket` (Trinket)
 - **Relic**: `Warrior Relic` (area-independent class drop; equip as soon as found)
+
+### `Lv. 50–99` (Starts Mid-`Frigid Wasteland` at `Lv. 50+` -> `Lv. 100`)
+- **Weapon (`2H`)**: Transitioning into `Lead` weapon tier (`Lead Axe` observed first; watching for `2H` `Lead` melee bases)
+- **Armour**: Transition into **`Lead` (Heavy — pure `Armour`)** pieces (`Lead Bracers` observed first; mixing `Heavy` Medium `Armour + Evasion` upgrades where higher-level)
+- **Accessories**: Transition into `Lead` accessory set (`Lead Trinket` observed first)
 
 ---
 
@@ -47,3 +52,4 @@ nav_order: 1
 | 5 | `Goblin Camp` | `Lv. 24 -> 31` | More Heavy `Iron` slots (`Iron Helmet`, `Iron Belt`, `Iron Boots`); lucky `Ring of Manipulation` (`Divine`) |
 | 6 | `Rock Cave` | `Lv. 31 -> 38` | Added `Iron Greaves` (Pants); zone exclusives observed (`Rockwall` `Divine` Shield, `Stone Carapace`, `Frost Ring`, `Flame Ring`) |
 | 7 | `Scorched Plains` | `Lv. 38 -> 45` | Zone exclusives observed: `Desert Tarsus` (lucky `2H` Polearm), `Scorched Bow` (`Divine` Bow), `Wurm Carapace` (Shield), `Royal Cuffs` (Bracers) |
+| 8 | `Frigid Wasteland` | `Lv. 45 -> 52` | Crosses `Lv. 50` threshold (opens `Lv. 50–99` `Woven`/`Heavy`/`Lead` bases & `Lead` weapons/accessories); exclusives: `Frost Sting`, `Yeti Hide Hood`, `Frozen Talisman` (`Divine`) |
