@@ -45,3 +45,4 @@ nav_order: 1
 | 3 | `Deep Forest` | `Lv. 11 -> 17` | `Copper` accessories (`Lv. 10+`), then `Lv. 15–49` item pool opens at `Lv. 15` |
 | 4 | `Orc Camp` | `Lv. 17 -> 24` | `Iron Spear` (`2H`), Heavy `Iron` armour pieces, full `Iron` accessories, `Warrior Relic` found |
 | 5 | `Goblin Camp` | `Lv. 24 -> 31` | More Heavy `Iron` slots (`Iron Helmet`, `Iron Belt`, `Iron Boots`); lucky `Ring of Manipulation` (`Divine`) |
+| 6 | `Rock Cave` | `Lv. 31 -> 38` | Added `Iron Greaves` (Pants); zone exclusives observed (`Rockwall` `Divine` Shield, `Stone Carapace`, `Frost Ring`, `Flame Ring`) |

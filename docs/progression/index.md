@@ -17,6 +17,7 @@ has_children: false
 | 3 | `Deep Forest` | `Lv. 11 -> 17` | `Lv. 17` | Crosses `Lv. 15` threshold (opens `Lv. 15–49` `Cloth`/`Rough`/`Iron` bases & `Iron` accessories); `Orcish Charm`, `Queens Eye`, `Spider Silk Wraps`, `Bear Claw` |
 | 4 | `Orc Camp` | `Lv. 17 -> 24` | `Lv. 24` | Full `Lv. 15–49` drop band active; exclusives: `Bonecleaver`, `Berserker Helm`, `Cloak of Purity` |
 | 5 | `Goblin Camp` | `Lv. 24 -> 31` | `Lv. 31` | Continues `Lv. 15–49` band; exclusives: `Mages Shawl`, `Goblin Tooth Necklace`, `Ring of Manipulation` (`Divine`) |
+| 6 | `Rock Cave` | `Lv. 31 -> 38` | `Lv. 38` | Continues `Lv. 15–49` band; exclusives: `Rockwall` (`Divine` Shield), `Stone Carapace`, `Frost Ring`, `Flame Ring` |
 
 ---
 
