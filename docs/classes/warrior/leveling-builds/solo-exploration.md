@@ -28,3 +28,10 @@ nav_order: 1
 - **Cloak**: `Wolf Pelt Cloak` (applies well to any character); fallback: `Leather Cloak`
 - **Standard Armour (`Leather`)**: `Leather Helm`, `Leather Pauldrons`, `Leather Chest`, `Leather Bracers`, `Leather Gloves`, `Leather Belt`, `Leather Pants`
 - **Other Observed Drop (Not Used for 2H Leveling)**: `Brutes Pummeler` (Fist weapon — likely Divine/special tier rather than a 2H leveling piece)
+
+### 2. `Graveyard` (`Lv. 5 -> 11`, Until Next Area Unlocks)
+- **Weapon (`2H`)**: Higher-level `Basic Hammer` drops can outscale the earlier `Lv. 1–5` `Brutes Warhammer` (no new `2H` melee boss weapon in this zone)
+- **Armour**: Continue upgrading standard pieces by drop level
+- **Other Observed Drops (Cross-Class / Future Runs)**:
+  - `Bone Bow` (Bow — `2H` leveling candidate for **Ranger**)
+  - `Reavers Shield` (Shield — relevant for future multi-character / shield builds, or higher-level scaling)

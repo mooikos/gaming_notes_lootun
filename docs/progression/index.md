@@ -13,6 +13,7 @@ has_children: false
 | # | Dungeon / Area | Level Stayed | Unlocks Next At | Notes |
 | :--- | :--- | :--- | :--- | :--- |
 | 1 | `Woodland` | `Lv. 1 -> 5` | `Lv. 5` | Starting area; `Leather` armour tier, `Wolf Pelt Cloak`, `Brutes Warhammer` (`2H`), `Brutes Pummeler` (Fist) |
+| 2 | `Graveyard` | `Lv. 5 -> 11` | `Lv. 11` | `Bone Bow` (`2H` Bow for Ranger), `Reavers Shield`; higher-level `Basic Hammer` can outscale `Woodland` `Brutes Warhammer` |
 
 ---
 
