@@ -66,6 +66,10 @@ Deduplicated item progression clustered into:
 | 6 | **`Rock Cave`** (`Lv. 31 -> 38`) | `Stone Carapace` | Chest (`Heavy`) | Boss / Notable | Lucky heavy armour chest drop |
 | 6 | **`Rock Cave`** (`Lv. 31 -> 38`) | `Frost Ring` | Ring | Boss / Notable | Lucky drop for later Cold builds |
 | 6 | **`Rock Cave`** (`Lv. 31 -> 38`) | `Flame Ring` | Ring | Boss / Notable | Lucky drop for later Fire builds |
+| 7 | **`Scorched Plains`** (`Lv. 38 -> 45`) | `Desert Tarsus` | `2H` Polearm | Boss / Notable | Potential `2H` Warrior upgrade if lucky (not relied on) |
+| 7 | **`Scorched Plains`** (`Lv. 38 -> 45`) | `Scorched Bow` | `2H` Bow | `Divine` / Later | Lucky `Divine` bow drop for **Ranger** / later farming |
+| 7 | **`Scorched Plains`** (`Lv. 38 -> 45`) | `Wurm Carapace` | Shield | Boss / Notable | Lucky shield drop for future shield builds |
+| 7 | **`Scorched Plains`** (`Lv. 38 -> 45`) | `Royal Cuffs` | Bracers | Boss / Notable | Lucky bracers drop |
 
 ---
 
@@ -73,5 +77,5 @@ Deduplicated item progression clustered into:
 
 > Kept separate until verified & fed from gameplay:
 - **Class Relics (`Warrior Relic`)**: Game docs note that Class Relic attribute values **scale dynamically with your character's level**, so a good Relic stays relevant without getting outleveled by base item level.
-- **`Divine` Items (`Brute's Pummeler`, `Spider Silk Wraps`, `Cloak of Purity`, `Ring of Manipulation`, `Rockwall`)**: Rare boss drops rolling fixed `10/10` attribute ranks + a unique non-rollable modifier (e.g., `Ring of Manipulation` grants `+10% Double Damage` vs targets below `100% Max HP`).
+- **`Divine` Items (`Brute's Pummeler`, `Spider Silk Wraps`, `Cloak of Purity`, `Ring of Manipulation`, `Rockwall`, `Scorched Bow`)**: Rare boss drops rolling fixed `10/10` attribute ranks + a unique non-rollable modifier (e.g., `Ring of Manipulation` grants `+10% Double Damage` vs targets below `100% Max HP`).
 - **Scaling Early Boss Drops Later**: Unlocking **"Scale Monsters to Max Level"** and **Item Vault Research** later allows farming/crafting max-level versions of early dungeon exclusives.

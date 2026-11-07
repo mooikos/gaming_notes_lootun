@@ -28,8 +28,8 @@ nav_order: 1
 - **Armour**: `Leather` (Medium — `Armour + Evasion`) set + `Wolf Pelt Cloak` (or `Leather Cloak` fallback)
 - **Accessories (`Lv. 10+`)**: `Copper Amulet`, `Copper Ring`, `Copper Trinket`
 
-### `Lv. 15–49` (Starts Mid-`Deep Forest` at `Lv. 15+` -> `Orc Camp` -> Ongoing)
-- **Weapon (`2H`)**: `Iron Spear` (`2H` Polearm — usable while watching for an `Iron` `2H` Hammer equivalent)
+### `Lv. 15–49` (Starts Mid-`Deep Forest` at `Lv. 15+` -> `Scorched Plains` -> Ongoing)
+- **Weapon (`2H`)**: `Iron Spear` (`2H` Polearm — standard base; `Desert Tarsus` in `Scorched Plains` is a lucky bonus `2H` Polearm if dropped)
 - **Armour**: Transition into **`Iron` (Heavy — pure `Armour`)** pieces (mixing `Rough` Medium pieces as higher-level upgrades drop)
 - **Accessories**: `Iron Chain` (Amulet), `Iron Band` (Ring), `Iron Trinket` (Trinket)
 - **Relic**: `Warrior Relic` (area-independent class drop; equip as soon as found)
@@ -46,3 +46,4 @@ nav_order: 1
 | 4 | `Orc Camp` | `Lv. 17 -> 24` | `Iron Spear` (`2H`), Heavy `Iron` armour pieces, full `Iron` accessories, `Warrior Relic` found |
 | 5 | `Goblin Camp` | `Lv. 24 -> 31` | More Heavy `Iron` slots (`Iron Helmet`, `Iron Belt`, `Iron Boots`); lucky `Ring of Manipulation` (`Divine`) |
 | 6 | `Rock Cave` | `Lv. 31 -> 38` | Added `Iron Greaves` (Pants); zone exclusives observed (`Rockwall` `Divine` Shield, `Stone Carapace`, `Frost Ring`, `Flame Ring`) |
+| 7 | `Scorched Plains` | `Lv. 38 -> 45` | Zone exclusives observed: `Desert Tarsus` (lucky `2H` Polearm), `Scorched Bow` (`Divine` Bow), `Wurm Carapace` (Shield), `Royal Cuffs` (Bracers) |

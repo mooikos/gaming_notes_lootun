@@ -18,6 +18,7 @@ has_children: false
 | 4 | `Orc Camp` | `Lv. 17 -> 24` | `Lv. 24` | Full `Lv. 15–49` drop band active; exclusives: `Bonecleaver`, `Berserker Helm`, `Cloak of Purity` |
 | 5 | `Goblin Camp` | `Lv. 24 -> 31` | `Lv. 31` | Continues `Lv. 15–49` band; exclusives: `Mages Shawl`, `Goblin Tooth Necklace`, `Ring of Manipulation` (`Divine`) |
 | 6 | `Rock Cave` | `Lv. 31 -> 38` | `Lv. 38` | Continues `Lv. 15–49` band; exclusives: `Rockwall` (`Divine` Shield), `Stone Carapace`, `Frost Ring`, `Flame Ring` |
+| 7 | `Scorched Plains` | `Lv. 38 -> 45` | `Lv. 45` | Continues `Lv. 15–49` band; exclusives: `Desert Tarsus` (`2H` Polearm), `Scorched Bow` (`Divine` Bow), `Wurm Carapace`, `Royal Cuffs` |
 
 ---
 
