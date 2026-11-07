@@ -35,9 +35,10 @@ The site is built with Jekyll using the [Just the Docs](https://just-the-docs.co
   - **Profession Hall**: Unlocks passive gathering nodes (`Mine`, `Forest`, `Farm`) enhanced by worker slots and monster-dropped **Profession Tools**.
 - **Endgame Systems**: Missions & Map Expertise, Dungeons, Heroic / Agony scaling, Endless waves, Mythic/Fated itemization, Enchants, Gems, Flasks, Relics, and 6-player Raids.
 
-## Repository Structure (`docs/`)
+## Repository Structure (`saves/` & `docs/`)
+- `saves/` — Tracked plain-text copy-paste **Lootun** save exports (`saves/README.md` + raw save snapshots, kept outside `docs/` so Jekyll ignores them; informal filenames are welcome during active play)
 - `docs/index.md` — Home page (`nav_exclude: true`)
-- `docs/milestones/` — Short-term, mid-term, and long-term progression goals and completed milestones
+- `docs/milestones/` — Phase-by-phase exploration plan plus short-term, mid-term, and long-term progression milestones
 - `docs/general/` — Core game concepts, glossary terms, combat/defense layers, base buildings, and professions
 - `docs/classes/` — Base class guides (`warrior/`, `ranger/`, `mage/`, `paladin/`), Ascendancy builds, and 3-man / 6-man party compositions
 - `docs/items-crafting/` — Equipment tiers, affixes, Blacksmith/Artisan workflows, enchants, gems, flasks, and relics

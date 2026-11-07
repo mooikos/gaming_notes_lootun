@@ -10,9 +10,10 @@ Structured gaming notes, progression milestones, class builds, and crafting refe
 - **Base & Professions**: Upgrade the **Scrapper**, **Blacksmith**, **Barracks**, **Artisan**, and **Profession Hall** (`Mine`, `Forest`, `Farm`) for automated salvaging, auto-casting, crafting, and passive material gathering.
 - **Deep Endgame**: Progress through Missions, Map Expertise, Dungeons, Heroic/Agony scaling, Endless stages, and 6-player Endgame Raids.
 
-## Notes Structure (`docs/`)
+## Repository Structure
 
-- [`docs/milestones/`](docs/milestones/index.md) — Short-term, mid-term, and long-term gaming milestones
+- [`saves/`](saves/README.md) — Copy-paste plain-text **Lootun** save strings & milestone checkpoints (outside `docs/` so Jekyll does not publish raw save strings)
+- [`docs/milestones/`](docs/milestones/index.md) — Class exploration strategy & short / mid / long-term gaming milestones
 - [`docs/general/`](docs/general/index.md) — Core mechanics, combat/skill scaling, buildings, and professions
 - [`docs/classes/`](docs/classes/index.md) — Base classes, Ascendancies, party setups, and endgame raid builds
 - [`docs/items-crafting/`](docs/items-crafting/index.md) — Gear affixes, crafting, enchants, gems, flasks, and relics
