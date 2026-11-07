@@ -35,8 +35,8 @@ nav_order: 1
 - **Relic**: `Warrior Relic` (area-independent class drop; equip as soon as found)
 
 ### `Lv. 50–99` (Starts Mid-`Frigid Wasteland` at `Lv. 50+` -> `Lv. 100`)
-- **Weapon (`2H`)**: Transitioning into `Lead` weapon tier (`Lead Axe` observed first; watching for `2H` `Lead` melee bases)
-- **Armour**: Transition into **`Lead` (Heavy — pure `Armour`)** pieces (`Lead Bracers` observed first; mixing `Heavy` Medium `Armour + Evasion` upgrades where higher-level)
+- **Weapon (`2H`)**: **`Lead Hammer`** (`2H` Hammer — primary `Lv. 50–99` weapon upgrade; `Lead Spear` `2H` Polearm as fallback if hammer hasn't dropped yet)
+- **Armour**: Transition into **`Lead` (Heavy — pure `Armour`)** pieces (`Lead Helmet`, `Lead Bracers`, `Lead Boots`, plus lucky `Jungle Cape` Heavy Cloak if dropped; mixing `Heavy` Medium `Armour + Evasion` upgrades where higher-level)
 - **Accessories**: Transition into `Lead` accessory set (`Lead Trinket` observed first)
 
 ---
@@ -53,3 +53,4 @@ nav_order: 1
 | 6 | `Rock Cave` | `Lv. 31 -> 38` | Added `Iron Greaves` (Pants); zone exclusives observed (`Rockwall` `Divine` Shield, `Stone Carapace`, `Frost Ring`, `Flame Ring`) |
 | 7 | `Scorched Plains` | `Lv. 38 -> 45` | Zone exclusives observed: `Desert Tarsus` (lucky `2H` Polearm), `Scorched Bow` (`Divine` Bow), `Wurm Carapace` (Shield), `Royal Cuffs` (Bracers) |
 | 8 | `Frigid Wasteland` | `Lv. 45 -> 52` | Crosses `Lv. 50` threshold (opens `Lv. 50–99` `Woven`/`Heavy`/`Lead` bases & `Lead` weapons/accessories); exclusives: `Frost Sting`, `Yeti Hide Hood`, `Frozen Talisman` (`Divine`) |
+| 9 | `Jungle Ruins` | `Lv. 52 -> 60` | **`Lead Hammer`** (`2H`) & `Lead Spear` (`2H` fallback) + `Lead Helmet` & `Lead Boots`; exclusives: `Beetle Blade`, `Ritual Knife`, `Living Sash`, `Jungle Cape` (`Heavy`), `Storm Band`, `Lightning Talisman` (`Divine`) |
