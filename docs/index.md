@@ -8,8 +8,12 @@ This site holds structured gaming notes, milestones, and build references for [L
 
 ## Sections
 
-- [Milestones](milestones) — Short-term, mid-term, and long-term gaming goals
+- [Milestones & Exploration Plan](milestones) — Phase 1 Solo Class Exploration (`Lv. 1 -> 100`) & mid/long-term goals
 - [General](general) — Core mechanics, skills, buildings, and professions
-- [Classes & Ascendancies](classes) — Warrior, Ranger, Mage, Paladin, and party/raid builds
-- [Items & Crafting](items-crafting) — Equipment tiers, Blacksmith/Artisan crafting, enchants, gems, flasks, and relics
+- [Classes & Ascendancies](classes) — Class guides, `leveling-builds/`, and `endgame-builds/`:
+  - [Warrior](classes/warrior) ([Leveling](classes/warrior/leveling-builds/solo-exploration) · [Endgame](classes/warrior/endgame-builds/overview))
+  - [Ranger](classes/ranger) ([Leveling](classes/ranger/leveling-builds/solo-exploration) · [Endgame](classes/ranger/endgame-builds/overview))
+  - [Mage](classes/mage) ([Leveling](classes/mage/leveling-builds/solo-exploration) · [Endgame](classes/mage/endgame-builds/overview))
+  - [Paladin](classes/paladin) ([Leveling](classes/paladin/leveling-builds/solo-exploration) · [Endgame](classes/paladin/endgame-builds/overview))
+- [Items & Crafting](items-crafting) — Equipment tiers, crafting, and [Items & Unlocks by Level](items-crafting/by-level)
 - [Progression & Endgame](progression) — Missions, dungeons, boss target-farming, Agony/Endless, and 6-man raids

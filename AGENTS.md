@@ -27,6 +27,7 @@ The site is built with Jekyll using the [Just the Docs](https://just-the-docs.co
   - **Ranger**: `Assassin`, `Marksman`, `Renegade`
   - **Mage**: `Archmage`, `Vizier`, `Battlemage`
   - **Paladin**: `Templar`, `Crusader`, `Inquisitor`
+  - *Ascendancy Respec Mechanics*: Ascendancies can be **freely unlearned and swapped** anytime; each Ascendancy saves its earned Ascendancy Level (`1–50`) & XP independently when switching back later, and unequipped Ascendancy Relics are automatically locked so they cannot be scrapped.
 - **Skills & Masteries**:
   - **Default Attacks**: Require a matching weapon archetype; scale with Weapon Damage % and Attack Time.
   - **Cooldown Skills**: Offensive, defensive, and utility abilities automated via the **Barracks**; each skill supports up to **20 Mastery Levels** that modify skill behavior, target caps, or damage conversions.
@@ -38,10 +39,13 @@ The site is built with Jekyll using the [Just the Docs](https://just-the-docs.co
 ## Repository Structure (`saves/` & `docs/`)
 - `saves/` — Tracked plain-text copy-paste **Lootun** save exports (`saves/README.md` + raw save snapshots, kept outside `docs/` so Jekyll ignores them; informal filenames are welcome during active play)
 - `docs/index.md` — Home page (`nav_exclude: true`)
-- `docs/milestones/` — Phase-by-phase exploration plan plus short-term, mid-term, and long-term progression milestones
+- `docs/milestones/` — Phase-by-phase Solo Class Exploration plan (`Lv. 1 -> 100`) plus mid-term and long-term progression milestones
 - `docs/general/` — Core game concepts, glossary terms, combat/defense layers, base buildings, and professions
-- `docs/classes/` — Base class guides (`warrior/`, `ranger/`, `mage/`, `paladin/`), Ascendancy builds, and 3-man / 6-man party compositions
-- `docs/items-crafting/` — Equipment tiers, affixes, Blacksmith/Artisan workflows, enchants, gems, flasks, and relics
+- `docs/classes/` — Base class directories (`warrior/`, `ranger/`, `mage/`, `paladin/`), each containing:
+  - `index.md` — Class overview (`parent: Classes & Ascendancies`, `has_children: true`)
+  - `leveling-builds/` — Level-bracketed builds (`Lv. 1 -> 100`) mapped to newly unlocked items (`parent: <Class>`, `grand_parent: Classes & Ascendancies`)
+  - `endgame-builds/` — `Lv. 100+` Ascendancy & raid builds (`parent: <Class>`, `grand_parent: Classes & Ascendancies`)
+- `docs/items-crafting/` — Equipment tiers, [Items & Unlocks by Level](docs/items-crafting/by-level.md), Blacksmith/Artisan workflows, enchants, gems, flasks, and relics
 - `docs/progression/` — Region missions, dungeons, boss target-farming, Agony/Endless notes, and raid strategies
 
 ## Formatting & Naming Conventions
