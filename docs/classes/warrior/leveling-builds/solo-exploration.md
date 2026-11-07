@@ -35,3 +35,13 @@ nav_order: 1
 - **Other Observed Drops (Cross-Class / Future Runs)**:
   - `Bone Bow` (Bow — `2H` leveling candidate for **Ranger**)
   - `Reavers Shield` (Shield — relevant for future multi-character / shield builds, or higher-level scaling)
+
+### 3. `Deepforest` (`Lv. 11 -> ??`, Until Next Area Unlocks)
+- **Accessories Online (`Lv. 10+` -> `Lv. 15–49`)**:
+  - **Baseline `Copper` Set (`Lv. 10+`)**: `Copper Trinket`, `Copper Amulet`, `Copper Ring` (reliable leveling drops)
+  - **`Iron` Tier Start (`Lv. 15–49`)**: `Iron Chain` (Amulet — first observed piece of `Iron` accessories)
+  - **Rare Boss Trinkets**: `Orcish Charm` & `Queens Eye` (did not drop during pass-through; lucky bonus if found while leveling like `Brutes Warhammer`, otherwise better suited for later target-farming)
+- **Other Observed Drops (Cross-Class / Later Phases)**:
+  - `Bear Claw` (Fist weapon — skipped for `2H` leveling)
+  - `Spider Silk Wraps` (Bracers — likely Divine item, saved for later)
+  - `Cloth Robes` (Chest) & `Cloth Hood` (Helm) — first observed pieces of the `Cloth` armour tier (`Lv. 15–49`, `Armour + Barrier` based -> primary fit for **Mage**)

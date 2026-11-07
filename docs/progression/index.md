@@ -14,6 +14,7 @@ has_children: false
 | :--- | :--- | :--- | :--- | :--- |
 | 1 | `Woodland` | `Lv. 1 -> 5` | `Lv. 5` | Starting area; `Leather` armour tier, `Wolf Pelt Cloak`, `Brutes Warhammer` (`2H`), `Brutes Pummeler` (Fist) |
 | 2 | `Graveyard` | `Lv. 5 -> 11` | `Lv. 11` | `Bone Bow` (`2H` Bow for Ranger), `Reavers Shield`; higher-level `Basic Hammer` can outscale `Woodland` `Brutes Warhammer` |
+| 3 | `Deepforest` | `Lv. 11 -> ??` | `TBD` | `Copper` accessories (`Lv. 10+`), `Iron Chain` & `Cloth` armour (`Lv. 15–49`), `Orcish Charm`, `Queens Eye`, `Spider Silk Wraps`, `Bear Claw` |
 
 ---
 

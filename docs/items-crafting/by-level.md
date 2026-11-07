@@ -28,11 +28,23 @@ Progression log of notable equipment, Two-Handed (`2H`) weapons, standard sets, 
 | `Reavers Shield` | Shield (Off-Hand) | Boss / Notable | Candidate for multi-character runs or higher-level shield setups (skipped for `2H` Solo leveling) |
 | `Basic Hammer` *(higher-level drop)* | `2H` Hammer | Standard | Can outscale a lower-level `Brutes Warhammer` from `Woodland` |
 
+### 3. `Deepforest` (`Lv. 11 -> ??`)
+
+| Item Name | Slot / Type | Source / Drop Band | Confirmed Notes & Class Fit |
+| :--- | :--- | :--- | :--- |
+| `Copper Trinket`, `Copper Amulet`, `Copper Ring` | Trinket / Amulet / Ring | Standard (`Lv. 10+`) | Reliable baseline leveling accessories across **all classes** |
+| `Iron Chain` | Amulet | Standard (`Lv. 15–49`) | First observed piece of the `Iron` accessory tier |
+| `Cloth Robes`, `Cloth Hood` | Chest / Helm (`Cloth`) | Standard (`Lv. 15–49`) | First observed `Cloth` set pieces (`Armour + Barrier` -> primary fit for **Mage**) |
+| `Orcish Charm` | Trinket | Boss / Notable | Did not drop on pass-through; lucky leveling bonus if dropped, otherwise likely for endgame farming |
+| `Queens Eye` | Trinket | Boss / Notable | Did not drop yet; same low-drop-rate consideration as `Orcish Charm` |
+| `Spider Silk Wraps` | Bracers | Boss / Special (`Divine`?) | Saved for later / post-exploration builds |
+| `Bear Claw` | Fist Weapon | Boss / Special | Not used for `2H` leveling exploration |
+
 ---
 
 ## Unconfirmed / Reference Notes
 
 > Kept separate until verified & fed from gameplay:
 - **Glossary**: Lists monster/boss drop tables once encountered.
-- **`Divine` Rarity (`Brute's Pummeler`)**: Community/game docs confirm **Divine** is a rare boss-drop tier with a unique modifier + max-ranked attributes (`10/10`), typically farmed later for dual-wielding or endgame imbuing rather than fast `2H` leveling.
+- **`Divine` Rarity (`Brute's Pummeler`, `Spider Silk Wraps`)**: Community/game docs confirm both `Brute's Pummeler` and `Spider Silk Wraps` (unique attacker attack-speed debuff, popular on tanks) are **Divine** boss-drop items with fixed max-rank attributes (`10/10`).
 - **Scaling Early Boss Items Later (`Reaver's Shield`, etc.)**: Game docs indicate that later progression unlocks **"Scale Monsters to Max Level"** on early missions (letting early bosses drop max-level versions of their signature loot) as well as **Item Vault Research** to craft updated copies of drop-exclusive items.
