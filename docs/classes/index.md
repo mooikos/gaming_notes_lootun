@@ -6,22 +6,23 @@ has_children: true
 
 # Classes & Ascendancies
 
-Characters start as one of **4 Base Classes** and unlock **3 Ascendancy specializations** at **Level 100** (+50 Ascendancy levels).
+## Confirmed Phase 1 Exploration Order (`Solo 2H`, `Lv. 1 -> 100`)
 
-> **Ascendancy Respec Rule**: Ascendancies can be **freely unlearned and swapped** at any time. Each Ascendancy tracks its own Ascendancy Level (`1–50`) & XP independently when switching back later, and unequipped Ascendancy Relics are automatically locked to prevent accidental salvaging.
+1. **[Warrior](classes/warrior)** — [Solo 2H Leveling Exploration](classes/warrior/leveling-builds/solo-exploration) · [Endgame Builds (Unconfirmed)](classes/warrior/endgame-builds/overview)
+2. **[Ranger](classes/ranger)** — [Solo 2H Leveling Exploration](classes/ranger/leveling-builds/solo-exploration) · [Endgame Builds (Unconfirmed)](classes/ranger/endgame-builds/overview)
+3. **[Mage](classes/mage)** — [Solo 2H Leveling Exploration](classes/mage/leveling-builds/solo-exploration) · [Endgame Builds (Unconfirmed)](classes/mage/endgame-builds/overview)
+4. **[Paladin](classes/paladin)** — [Solo 2H Leveling Exploration](classes/paladin/leveling-builds/solo-exploration) · [Endgame Builds (Unconfirmed)](classes/paladin/endgame-builds/overview)
 
-## Class Guides & Build Folders
+---
 
-- **[Warrior](classes/warrior)** — [Leveling Builds](classes/warrior/leveling-builds/solo-exploration) · [Endgame Builds](classes/warrior/endgame-builds/overview)
-- **[Ranger](classes/ranger)** — [Leveling Builds](classes/ranger/leveling-builds/solo-exploration) · [Endgame Builds](classes/ranger/endgame-builds/overview)
-- **[Mage](classes/mage)** — [Leveling Builds](classes/mage/leveling-builds/solo-exploration) · [Endgame Builds](classes/mage/endgame-builds/overview)
-- **[Paladin](classes/paladin)** — [Leveling Builds](classes/paladin/leveling-builds/solo-exploration) · [Endgame Builds](classes/paladin/endgame-builds/overview)
+## Unconfirmed / General Class Reference
 
-## Class & Ascendancy Matrix
+> Background class & Level-100 Ascendancy list from game documentation (kept separate until tested in-game):
+- *Ascendancy Respec*: Ascendancies unlock at **Level 100** (+50 Ascendancy levels) and can be freely unlearned/swapped anytime while preserving earned Ascendancy levels & XP and auto-locking unequipped Relics.
 
-| Base Class | Archetype Focus | Ascendancy 1 | Ascendancy 2 | Ascendancy 3 |
-| :--- | :--- | :--- | :--- | :--- |
-| **[Warrior](classes/warrior)** | High defense, melee/physical combat | `Barbarian` | `Juggernaut` | `Warden` (Block Tank) |
-| **[Ranger](classes/ranger)** | High attack speed, mobility & ranged DPS | `Assassin` | `Marksman` | `Renegade` (Evasion Tank) |
-| **[Mage](classes/mage)** | Elemental & arcane spell scaling | `Archmage` | `Vizier` | `Battlemage` (Barrier Tank) |
-| **[Paladin](classes/paladin)** | Holy blessings, mitigation, thorns & DoTs | `Templar` (Block/Thorns Tank) | `Crusader` (Raid Buffer/DPS) | `Inquisitor` (Ignite/DoT) |
+| Base Class | Ascendancy 1 | Ascendancy 2 | Ascendancy 3 |
+| :--- | :--- | :--- | :--- |
+| **[Warrior](classes/warrior)** | `Barbarian` | `Juggernaut` | `Warden` |
+| **[Ranger](classes/ranger)** | `Assassin` | `Marksman` | `Renegade` |
+| **[Mage](classes/mage)** | `Archmage` | `Vizier` | `Battlemage` |
+| **[Paladin](classes/paladin)** | `Templar` | `Crusader` | `Inquisitor` |

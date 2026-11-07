@@ -13,13 +13,17 @@ The site is built with Jekyll using the [Just the Docs](https://just-the-docs.co
   5. Keep commits scoped cleanly to this Git repository (`gaming_notes_lootun`).
 
 ## Interactive Documentation Workflow
+- **Strict Separation — Confirmed vs. Unconfirmed**:
+  - Keep **user-confirmed decisions, builds, and in-game findings** in the main/active sections of each page.
+  - Keep **anything not yet confirmed or input by the user** (future post-Phase-1 milestones, general game/community reference notes, tentative build ideas) in a clearly labeled **`Unconfirmed / Future Reference`** section so active focus (`Phase 1`) stays clean and unambiguous.
+- **Current Active Focus (`Phase 1`)**:
+  - Solo 1-character exploration runs (`Warrior`, `Ranger`, `Mage`, `Paladin`) from `Lv. 1 -> 100`, using **Two-Handed (`2H`) weapons** to minimize item-slot complexity, upgrading basic gold structures only (no gear crafting), advancing dungeons immediately when unlocked, and logging item unlocks by **Dungeon / Boss / Monster** rather than fixed level breakpoints.
 - When helping expand notes for **Lootun**, use iterative, focused questions to help organize:
-  - **Short-term, mid-term, and long-term milestones** (`docs/milestones/`), moving completed goals into a completed log as progress is made.
-  - **In-game discoveries & personal notes**, such as party rosters, favorite skill masteries, crafting priorities, target-farming drops, and boss/raid counters.
-- Cross-check game mechanics against authoritative sources:
-  - **In-Game Glossary**: Primary reference for item drop locations, monster damage profiles, and exact skill/affix wording.
-  - **[Lootun Steam Community Guides](https://steamcommunity.com/app/1960270/guides/)**: Developer *Deep Dive* posts, *Choosing gear for your team*, tank/DPS breakdowns, and 6-man raid build guides.
-  - **[Lootun Steam Store & Patch Notes](https://store.steampowered.com/app/1960270/Lootun/)** and **[r/Lootun](https://www.reddit.com/r/Lootun/)**.
+  - **Active Phase 1 exploration logs & milestones** (`docs/milestones/`, `docs/classes/<class>/leveling-builds/`, `docs/items-crafting/by-level.md`).
+  - **User-fed discoveries**, such as dungeon/boss/monster item drops, skill combinations, and progression walls.
+- Cross-check game mechanics against authoritative sources when needed:
+  - **In-Game Glossary**: Primary reference for monster/boss item drop locations, damage profiles, and exact skill/affix wording.
+  - **[Lootun Steam Community Guides](https://steamcommunity.com/app/1960270/guides/)**, **[Lootun Steam Store](https://store.steampowered.com/app/1960270/Lootun/)**, and **[r/Lootun](https://www.reddit.com/r/Lootun/)**.
 
 ## Game Domain Reference
 - **Base Classes & Level-100 Ascendancies** (+50 Ascendancy levels & passive trees):
@@ -43,9 +47,9 @@ The site is built with Jekyll using the [Just the Docs](https://just-the-docs.co
 - `docs/general/` — Core game concepts, glossary terms, combat/defense layers, base buildings, and professions
 - `docs/classes/` — Base class directories (`warrior/`, `ranger/`, `mage/`, `paladin/`), each containing:
   - `index.md` — Class overview (`parent: Classes & Ascendancies`, `has_children: true`)
-  - `leveling-builds/` — Level-bracketed builds (`Lv. 1 -> 100`) mapped to newly unlocked items (`parent: <Class>`, `grand_parent: Classes & Ascendancies`)
-  - `endgame-builds/` — `Lv. 100+` Ascendancy & raid builds (`parent: <Class>`, `grand_parent: Classes & Ascendancies`)
-- `docs/items-crafting/` — Equipment tiers, [Items & Unlocks by Level](docs/items-crafting/by-level.md), Blacksmith/Artisan workflows, enchants, gems, flasks, and relics
+  - `leveling-builds/` — Exploration & leveling builds (`Lv. 1 -> 100`, Two-Handed focus in Phase 1) evolving with Dungeon / Boss / Monster item unlocks (`parent: <Class>`, `grand_parent: Classes & Ascendancies`)
+  - `endgame-builds/` — Unconfirmed / future `Lv. 100+` Ascendancy & raid builds (`parent: <Class>`, `grand_parent: Classes & Ascendancies`)
+- `docs/items-crafting/` — Equipment notes and [Items by Dungeon / Boss / Monster](docs/items-crafting/by-level.md) (`by-level.md`), populated progressively as zones/bosses are encountered
 - `docs/progression/` — Region missions, dungeons, boss target-farming, Agony/Endless notes, and raid strategies
 
 ## Formatting & Naming Conventions

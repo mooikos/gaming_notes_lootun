@@ -6,11 +6,16 @@ has_children: false
 
 # Progression & Endgame
 
-Notes on world regions, target-farming drops, dungeon encounters, and endgame scaling modes.
+## Confirmed Dungeon / Mission Log (Phase 1)
 
-## Content Modes
+- **Active Rule**: Switch immediately to every newly unlocked Mission / Dungeon from `Lv. 1 -> 100` and log notable boss/monster drops in [Items by Dungeon / Boss / Monster](items-crafting/by-level).
+- *(Unlocked zones, bosses, and difficulty spikes will be logged here as encountered.)*
 
-- **Missions & Map Expertise**: Progress through regional missions, build Map Expertise, and farm boss-specific drops tracked in the Glossary.
-- **Dungeons & Bosses**: Multi-stage encounters requiring tailored defensive resists, cleanse utility, and target priority rules.
-- **Heroic, Agony & Endless**: High-scaling difficulty tiers pushing defensive mitigation and multiplicative DPS checks.
-- **Endgame Raids**: Full **6-character party** encounters combining dedicated tanks (`Templar`, `Warden`, `Renegade`, `Battlemage`), buffers (`Crusader`), and single-target/AoE DPS carries.
+---
+
+## Unconfirmed / General Game Reference (For Later Phases)
+
+> Post-exploration & general game modes from community/game docs — not yet active:
+- **Missions & Map Expertise**: Regional progression and boss drop target-farming.
+- **Heroic, Agony & Endless**: Scaling difficulty tiers beyond standard missions/dungeons.
+- **Endgame Raids**: `6-character` party encounters (`Lv. 100 -> 150`).

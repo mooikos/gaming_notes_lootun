@@ -4,38 +4,19 @@ parent: Items & Crafting
 nav_order: 1
 ---
 
-# Items & Unlocks by Level
+# Items by Dungeon / Boss / Monster
 
-Tracks notable weapons, off-hands, armor bases, accessories, and boss-specific Uniques as they unlock by character/zone level so future runs can min-max leveling transitions.
+Progression log of notable equipment, Two-Handed (`2H`) weapons, and unique drops organized by **Dungeon / Zone -> Boss / Monster** (ordered progressively as unlocked in-game rather than fixed level breakpoints).
 
-## Level Brackets (`Lv. 1 -> 100`)
+## Confirmed In-Game Unlocks (Fed During Exploration)
 
-### Lv. 1 – 25 (Early Missions & First Dungeons)
+| Order / Zone or Dungeon | Boss / Monster Source | Item Name | Slot / Type | Notable Stats / Effect | Notes / Build Fit |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| *(Awaiting exploration input)* | — | — | — | — | — |
 
-| Level / Zone | Item Name | Slot / Type | Notable Stats / Unique Effect | Good For (Classes / Builds) |
-| :--- | :--- | :--- | :--- | :--- |
-| *TBD* | *TBD* | *TBD* | *Log notable early drops here during Solo runs* | *TBD* |
+---
 
-### Lv. 25 – 50 (Early-Mid Dungeons)
+## Unconfirmed / Reference Notes
 
-| Level / Zone | Item Name | Slot / Type | Notable Stats / Unique Effect | Good For (Classes / Builds) |
-| :--- | :--- | :--- | :--- | :--- |
-| *TBD* | *TBD* | *TBD* | *TBD* | *TBD* |
-
-### Lv. 50 – 75 (Mid-Late Missions & Dungeons)
-
-| Level / Zone | Item Name | Slot / Type | Notable Stats / Unique Effect | Good For (Classes / Builds) |
-| :--- | :--- | :--- | :--- | :--- |
-| *TBD* | *TBD* | *TBD* | *TBD* | *TBD* |
-
-### Lv. 75 – 100 (Pre-Ascendancy Push)
-
-| Level / Zone | Item Name | Slot / Type | Notable Stats / Unique Effect | Good For (Classes / Builds) |
-| :--- | :--- | :--- | :--- | :--- |
-| *TBD* | *TBD* | *TBD* | *TBD* | *TBD* |
-
-## Post-100 & Endgame Drops (`Lv. 100 – 150`)
-
-| Level / Content | Item Name | Slot / Type | Notable Stats / Unique Effect | Good For (Ascendancies / Raids) |
-| :--- | :--- | :--- | :--- | :--- |
-| *TBD* | *TBD* | *TBD* | *TBD* | *TBD* |
+> Kept separate until verified & fed from gameplay:
+- The in-game **Glossary** lists monster/boss drop tables once encountered, making it easy to record exact sources as each new dungeon unlocks.

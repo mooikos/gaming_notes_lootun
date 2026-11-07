@@ -6,40 +6,34 @@ has_children: false
 
 # Milestones & Exploration Plan
 
-Track progression goals starting with **Phase 1: Solo Class Exploration Runs (`Lv. 1 -> 100`)** before re-strategizing for Lv. 100+ Ascendancy min-maxing and endgame Raids.
+## Confirmed Active Focus — Phase 1: Solo Class Exploration (`Lv. 1 -> 100`)
 
-## Phase 1 — Short-Term: Solo Class Exploration Runs (`Lv. 1 -> 100`)
+Run one dedicated **Solo** save file per Base Class to understand class kits, progression pace, and **Dungeon / Boss / Monster item unlocks** before deciding on any post-100 strategy.
 
-Run one dedicated **Solo** save file per Base Class to learn skills, weapon types, defenses, progression walls, and **item unlocks by level** firsthand before touching gear crafting or multi-character parties.
+### Confirmed Phase 1 Rules
+1. **1 Solo Character per Save**: Run a single hero per save (`Warrior` -> `Ranger` -> `Mage` -> `Paladin`).
+2. **Two-Handed (`2H`) Weapons Across All Explorations**: Stick to **Two-Handed weapons** (`2H Melee`, `2H Ranged`, `2H Staff`) to eliminate off-hand / dual-wield / shield slot complexity while hunting upgrades.
+3. **Always Advance Dungeon / Mission**: Move to the next unlocked Mission / Dungeon immediately whenever available.
+4. **Basic Gold Structures ON, Gear Crafting OFF**: Spend gold on basic base structures, while skipping gear crafting completely during Phase 1.
+5. **Track Unlocks by Dungeon / Boss / Monster**: Feed notable monster, boss, and dungeon drops into [Items by Dungeon / Boss / Monster](items-crafting/by-level) and log evolving setups in each class's `leveling-builds/` page (no artificial level breakpoints).
+6. **Stop & Export Save at Level 100**: Reach Lv. 100 (Ascendancy unlock), paste the exported save string into `saves/`, and repeat for the next class before re-strategizing.
 
-### Locked-In Exploration Rules (Per Class Save)
-1. **1 Solo Hero per Save**: Run a single character (`Solo Warrior`, then `Solo Ranger`, `Solo Mage`, `Solo Paladin`) to stress-test 1vMany sustain, clear speed, and weapon swaps with minimal gear overhead.
-   - *Ascendancy Respec Verified*: In *Lootun*, you can freely **Unlearn / Swap Ascendancy** at any time with zero permanent cost. Each of the 3 Ascendancies saves its own independent Ascendancy Level (`1–50`) & XP when you switch back later, and unequipped Ascendancy Relics are automatically locked so they cannot be scrapped.
-2. **Always Push Next Dungeon / Mission**: Switch to newly unlocked Missions and Dungeons immediately to see where natural offense/defense walls appear and what new items enter the drop pool.
-3. **Basic Gold Structures ON, Gear Crafting OFF**: Spend gold freely on base structures (**Barracks** auto-cast, **Scrapper** auto-salvage, Inventory/Stash slots, **Profession Hall**), while keeping **Blacksmith / Artisan gear crafting OFF** until Lv. 100.
-4. **Log Leveling Builds by Item Unlocks**: Track newly available monster/boss drops in [Items by Level](items-crafting/by-level) and record evolving leveling setups in each class's `leveling-builds/` folder so future runs can min-max gear transitions at every level bracket.
-5. **Stop & Snapshot at Level 100**: Export the save string into `saves/` at Lv. 100 before moving to the next class.
+### Phase 1 Checklist
+- [ ] **Run 1 — Solo 2H Warrior (`Lv. 1 -> 100`)**: Log [Warrior Leveling Builds](classes/warrior/leveling-builds/solo-exploration) & dungeon/boss item drops, export Lv. 100 save
+- [ ] **Run 2 — Solo 2H Ranger (`Lv. 1 -> 100`)**: Log [Ranger Leveling Builds](classes/ranger/leveling-builds/solo-exploration) & dungeon/boss item drops, export Lv. 100 save
+- [ ] **Run 3 — Solo 2H Mage (`Lv. 1 -> 100`)**: Log [Mage Leveling Builds](classes/mage/leveling-builds/solo-exploration) & dungeon/boss item drops, export Lv. 100 save
+- [ ] **Run 4 — Solo 2H Paladin (`Lv. 1 -> 100`)**: Log [Paladin Leveling Builds](classes/paladin/leveling-builds/solo-exploration) & dungeon/boss item drops, export Lv. 100 save
+- [ ] **Re-Strategize**: Review all 4 solo runs and item tables to plan the next phase
 
-### Exploration Checklist
-- [ ] **Run 1 — Solo Warrior (`Lv. 1 -> 100`)**: Log [Warrior Leveling Builds](classes/warrior/leveling-builds/solo-exploration) + item unlocks, reach Lv. 100, and export save
-- [ ] **Run 2 — Solo Ranger (`Lv. 1 -> 100`)**: Log [Ranger Leveling Builds](classes/ranger/leveling-builds/solo-exploration) + item unlocks, reach Lv. 100, and export save
-- [ ] **Run 3 — Solo Mage (`Lv. 1 -> 100`)**: Log [Mage Leveling Builds](classes/mage/leveling-builds/solo-exploration) + item unlocks, reach Lv. 100, and export save
-- [ ] **Run 4 — Solo Paladin (`Lv. 1 -> 100`)**: Log [Paladin Leveling Builds](classes/paladin/leveling-builds/solo-exploration) + item unlocks, reach Lv. 100, and export save
-- [ ] **Checkpoint — Re-Strategize**: Review all 4 solo runs & unlocked item tables, design min-maxed Leveling Builds by level bracket, and plan the post-100 / multi-class strategy
+### Completed Milestones
+- *(None yet — starting Phase 1 Run 1: Solo 2H Warrior)*
 
 ---
 
-## Phase 2 — Mid-Term Milestones (Post-Exploration)
+## Unconfirmed / Future Ideas (Not Active — Revisit After Phase 1)
 
-- [ ] Test & compare **Ascendancy** specializations (`Lv. 100+`) using saved Solo checkpoints or a unified roster, documenting setups in each class's `endgame-builds/` folder
-- [ ] Scale the **Profession Hall** (`Mine`, `Forest`, `Farm`) + Profession Tools
-- [ ] Begin **Blacksmith** crafting & max key **Skill Masteries** (Lv. 20)
-
-## Phase 3 — Long-Term Milestones
-
-- [ ] Push **Level 150** (100 Base + 50 Ascendancy) across a full **6-player Raid roster**
-- [ ] Optimize Mythic/Fated gear, **Artisan** transmutations, Enchants, Gems, Flasks, and Relics for **Agony**, **Endless**, and **Endgame Raids**
-
-## Completed Milestones
-
-- *(Completed milestones will be logged here as you progress!)*
+> Everything below is **unconfirmed placeholder context** kept separate until Phase 1 finishes and a new strategy is chosen:
+- Designing min-maxed leveling runs per class using the compiled Dungeon / Boss / Monster item table
+- Testing & comparing **Level 100+ Ascendancy** paths (`endgame-builds/`) — *(Note: Ascendancies can be freely unlearned/swapped anytime while keeping earned Ascendancy levels & XP)*
+- Enabling **Blacksmith / Artisan** crafting, **Profession Hall** optimization, and Lv. 20 Skill Masteries
+- Multi-character (`3-man` / `6-man`) party & Raid progression (`Lv. 100 -> 150`)

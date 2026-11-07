@@ -6,15 +6,20 @@ has_children: true
 
 # Items & Crafting
 
-Notes on equipment tiers, level-gated item unlocks, stat scaling priorities, salvaging filters, and crafting systems.
+## Confirmed Phase 1 Item Strategy
+
+- **Two-Handed (`2H`) Weapon Focus**: Use Two-Handed weapons across Phase 1 Solo explorations to avoid managing off-hand / shield / dual-wield slots.
+- **No Crafting in Phase 1**: Rely strictly on monster/boss drops while logging what becomes available per zone in [Items by Dungeon / Boss / Monster](items-crafting/by-level).
 
 ## Pages
 
-- [Items & Unlocks by Level](items-crafting/by-level) — Progression log of notable weapons, armor, accessories, and boss drops as they become available across Missions & Dungeons (`Lv. 1 -> 100+`)
+- [Items by Dungeon / Boss / Monster](items-crafting/by-level) — User-fed log of items unlocking across dungeons, bosses, and monsters
 
-## Key Itemization Systems
+---
 
-- **Weapons & Off-Hands**: Match weapon archetypes to Default Attacks; compare dual-wielding speed vs. two-handed base damage vs. shields for block sustain.
-- **Armor & Accessories**: Balance multiplicative offensive scalers (attack speed, crit, ailment/blessing scaling) with capped resistances and defensive layers.
-- **Profession Tools**: Dropped by monsters; roll gathering-specific modifiers for the `Mine`, `Forest`, and `Farm`.
-- **Endgame Upgrades**: Blacksmith enhancements, Artisan transmutations, **Enchants** (e.g., `Reprisal`), **Fated** augments, **Gems**, **Flasks**, and **Relics**.
+## Unconfirmed / General Game Reference (For Later Phases)
+
+> General *Lootun* mechanics from community/game docs — not yet part of active Phase 1 rules:
+- **Weapon Damage Categories**: Active Default Attacks must match equipped weapon category (`Melee`, `Ranged`, or `Magic` — each includes Two-Handed options such as `2H Swords/Axes/Maces/Polearms`, `Bows/Crossbows/Guns`, and `Staves`).
+- **Profession Tools**: Dropped by monsters to boost `Mine`, `Forest`, and `Farm` gathering.
+- **Crafting & Post-100 Systems**: Blacksmith upgrades, Artisan attribute transmutation, Enchants, Fated augments, Gems, Flasks, and Relics.
