@@ -11,9 +11,20 @@ nav_order: 1
 
 - **Party Size**: Solo Warrior (`1` character)
 - **Weapon Rule**: **Two-Handed (`2H`)** weapons only (minimizing item-slot complexity)
+- **Skills (`Lv. 1 -> 100`, Starting Loadout Kept Throughout)**:
+  - **Default Attack**: `Quick Slash`
+  - **Active Offensive**: `Armour Break`
+  - **Active Defensive**: `Ground Slam`
+- **Skill / Passive Trees**: Intuitive picks along the way (no strict focus during Phase 1)
 - **Progression Rule**: Switch to every newly unlocked Mission / Dungeon immediately; spend gold on basic structures only; **no gear crafting**; stop & export save at `Lv. 100`
 - **Item Unlocks Reference**: [Items by Dungeon / Boss / Monster](../../../items-crafting/by-level)
 
+---
+
 ## Confirmed Dungeon & Build Log (User-Fed)
 
-*(Entries will be added progressively by Dungeon / Boss / Monster & item unlocks as reported during the Solo Warrior run.)*
+### 1. `Woodland` (`Lv. 1 -> 5`, Until Next Area Unlocks)
+- **Weapon (`2H`)**: `Brutes Warhammer` (2H Hammer — strong leveling weapon for Warrior & Paladin); fallback: `Basic Hammer` if boss weapon doesn't drop
+- **Cloak**: `Wolf Pelt Cloak` (applies well to any character); fallback: `Leather Cloak`
+- **Standard Armour (`Leather`)**: `Leather Helm`, `Leather Pauldrons`, `Leather Chest`, `Leather Bracers`, `Leather Gloves`, `Leather Belt`, `Leather Pants`
+- **Other Observed Drop (Not Used for 2H Leveling)**: `Brutes Pummeler` (Fist weapon — likely Divine/special tier rather than a 2H leveling piece)
