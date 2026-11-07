@@ -16,6 +16,7 @@ has_children: false
 | 2 | `Graveyard` | `Lv. 5 -> 11` | `Lv. 11` | `Bone Bow` (Ranger `2H`), `Reavers Shield`; `Copper` accessories begin at `Lv. 10+` |
 | 3 | `Deep Forest` | `Lv. 11 -> 17` | `Lv. 17` | Crosses `Lv. 15` threshold (opens `Lv. 15–49` `Cloth`/`Rough`/`Iron` bases & `Iron` accessories); `Orcish Charm`, `Queens Eye`, `Spider Silk Wraps`, `Bear Claw` |
 | 4 | `Orc Camp` | `Lv. 17 -> 24` | `Lv. 24` | Full `Lv. 15–49` drop band active; exclusives: `Bonecleaver`, `Berserker Helm`, `Cloak of Purity` |
+| 5 | `Goblin Camp` | `Lv. 24 -> 31` | `Lv. 31` | Continues `Lv. 15–49` band; exclusives: `Mages Shawl`, `Goblin Tooth Necklace`, `Ring of Manipulation` (`Divine`) |
 
 ---
 

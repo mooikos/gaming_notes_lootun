@@ -44,3 +44,4 @@ nav_order: 1
 | 2 | `Graveyard` | `Lv. 5 -> 11` | Higher-level `Basic Hammer` outscales `Lv. 1–5` `Brutes Warhammer` |
 | 3 | `Deep Forest` | `Lv. 11 -> 17` | `Copper` accessories (`Lv. 10+`), then `Lv. 15–49` item pool opens at `Lv. 15` |
 | 4 | `Orc Camp` | `Lv. 17 -> 24` | `Iron Spear` (`2H`), Heavy `Iron` armour pieces, full `Iron` accessories, `Warrior Relic` found |
+| 5 | `Goblin Camp` | `Lv. 24 -> 31` | More Heavy `Iron` slots (`Iron Helmet`, `Iron Belt`, `Iron Boots`); lucky `Ring of Manipulation` (`Divine`) |
