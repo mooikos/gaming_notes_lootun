@@ -1,0 +1,11 @@
+# frozen_string_literal: true
+
+source 'https://rubygems.org'
+
+# github pages + remote theme
+gem "github-pages", group: :jekyll_plugins
+gem "just-the-docs", group: :jekyll_plugins
+## dependencies
+gem "base64", group: :jekyll_plugins
+gem "csv", group: :jekyll_plugins
+gem "webrick", group: :jekyll_plugins

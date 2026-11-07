@@ -1,0 +1,6 @@
+# jekyll files
+docs/_site/
+docs/.jekyll-cache/
+docs/.sass-cache/
+docs/.bundle/
+docs/vendor/
