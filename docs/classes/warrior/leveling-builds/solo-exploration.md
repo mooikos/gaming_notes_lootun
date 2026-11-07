@@ -17,31 +17,30 @@ nav_order: 1
   - **Active Defensive**: `Ground Slam`
 - **Skill / Passive Trees**: Intuitive picks along the way (no strict focus during Phase 1)
 - **Progression Rule**: Switch to every newly unlocked Mission / Dungeon immediately; spend gold on basic structures only; **no gear crafting**; stop & export save at `Lv. 100`
-- **Item Unlocks Reference**: [Items by Dungeon / Boss / Monster](../../../items-crafting/by-level)
+- **Full Deduplicated Item Tables**: [Items by Monster Level Band & Dungeon](../../../items-crafting/by-level)
 
 ---
 
-## Confirmed Dungeon & Build Log (User-Fed)
+## Confirmed Warrior Gear Transitions (Clustered by Drop Band)
 
-### 1. `Woodland` (`Lv. 1 -> 5`, Until Next Area Unlocks)
-- **Weapon (`2H`)**: `Brutes Warhammer` (2H Hammer — strong leveling weapon for Warrior & Paladin); fallback: `Basic Hammer` if boss weapon doesn't drop
-- **Cloak**: `Wolf Pelt Cloak` (applies well to any character); fallback: `Leather Cloak`
-- **Standard Armour (`Leather`)**: `Leather Helm`, `Leather Pauldrons`, `Leather Chest`, `Leather Bracers`, `Leather Gloves`, `Leather Belt`, `Leather Pants`
-- **Other Observed Drop (Not Used for 2H Leveling)**: `Brutes Pummeler` (Fist weapon — likely Divine/special tier rather than a 2H leveling piece)
+### `Lv. 1–14` (`Woodland` -> `Graveyard` -> Early `Deep Forest`)
+- **Weapon (`2H`)**: `Brutes Warhammer` (`Woodland` boss drop if lucky) -> replaced by higher-level `Basic Hammer` drops once they outscale it
+- **Armour**: `Leather` (Medium — `Armour + Evasion`) set + `Wolf Pelt Cloak` (or `Leather Cloak` fallback)
+- **Accessories (`Lv. 10+`)**: `Copper Amulet`, `Copper Ring`, `Copper Trinket`
 
-### 2. `Graveyard` (`Lv. 5 -> 11`, Until Next Area Unlocks)
-- **Weapon (`2H`)**: Higher-level `Basic Hammer` drops can outscale the earlier `Lv. 1–5` `Brutes Warhammer` (no new `2H` melee boss weapon in this zone)
-- **Armour**: Continue upgrading standard pieces by drop level
-- **Other Observed Drops (Cross-Class / Future Runs)**:
-  - `Bone Bow` (Bow — `2H` leveling candidate for **Ranger**)
-  - `Reavers Shield` (Shield — relevant for future multi-character / shield builds, or higher-level scaling)
+### `Lv. 15–49` (Starts Mid-`Deep Forest` at `Lv. 15+` -> `Orc Camp` -> Ongoing)
+- **Weapon (`2H`)**: `Iron Spear` (`2H` Polearm — usable while watching for an `Iron` `2H` Hammer equivalent)
+- **Armour**: Transition into **`Iron` (Heavy — pure `Armour`)** pieces (mixing `Rough` Medium pieces as higher-level upgrades drop)
+- **Accessories**: `Iron Chain` (Amulet), `Iron Band` (Ring), `Iron Trinket` (Trinket)
+- **Relic**: `Warrior Relic` (area-independent class drop; equip as soon as found)
 
-### 3. `Deepforest` (`Lv. 11 -> ??`, Until Next Area Unlocks)
-- **Accessories Online (`Lv. 10+` -> `Lv. 15–49`)**:
-  - **Baseline `Copper` Set (`Lv. 10+`)**: `Copper Trinket`, `Copper Amulet`, `Copper Ring` (reliable leveling drops)
-  - **`Iron` Tier Start (`Lv. 15–49`)**: `Iron Chain` (Amulet — first observed piece of `Iron` accessories)
-  - **Rare Boss Trinkets**: `Orcish Charm` & `Queens Eye` (did not drop during pass-through; lucky bonus if found while leveling like `Brutes Warhammer`, otherwise better suited for later target-farming)
-- **Other Observed Drops (Cross-Class / Later Phases)**:
-  - `Bear Claw` (Fist weapon — skipped for `2H` leveling)
-  - `Spider Silk Wraps` (Bracers — likely Divine item, saved for later)
-  - `Cloth Robes` (Chest) & `Cloth Hood` (Helm) — first observed pieces of the `Cloth` armour tier (`Lv. 15–49`, `Armour + Barrier` based -> primary fit for **Mage**)
+---
+
+## Confirmed Dungeon Progression Path
+
+| # | Dungeon | Levels Stayed | Warrior Leveling Notes |
+| :--- | :--- | :--- | :--- |
+| 1 | `Woodland` | `Lv. 1 -> 5` | Lucky `Brutes Warhammer` (`2H`) + `Wolf Pelt Cloak` + `Leather` set |
+| 2 | `Graveyard` | `Lv. 5 -> 11` | Higher-level `Basic Hammer` outscales `Lv. 1–5` `Brutes Warhammer` |
+| 3 | `Deep Forest` | `Lv. 11 -> 17` | `Copper` accessories (`Lv. 10+`), then `Lv. 15–49` item pool opens at `Lv. 15` |
+| 4 | `Orc Camp` | `Lv. 17 -> 24` | `Iron Spear` (`2H`), Heavy `Iron` armour pieces, full `Iron` accessories, `Warrior Relic` found |

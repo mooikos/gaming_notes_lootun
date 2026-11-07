@@ -16,6 +16,9 @@ The site is built with Jekyll using the [Just the Docs](https://just-the-docs.co
 - **Strict Separation — Confirmed vs. Unconfirmed**:
   - Keep **user-confirmed decisions, builds, and in-game findings** in the main/active sections of each page.
   - Keep **anything not yet confirmed or input by the user** (future post-Phase-1 milestones, general game/community reference notes, tentative build ideas) in a clearly labeled **`Unconfirmed / Future Reference`** section so active focus (`Phase 1`) stays clean and unambiguous.
+- **Deduplicate & Cluster Fragmented Findings Logically**:
+  - Never repeat duplicate item/mechanic observations across multiple dungeons.
+  - Cluster **global monster-level band base items** (e.g., `Lv. 1–14` starter bases, `Lv. 10+` `Copper` accessories, `Lv. 15–49` Light/`Cloth`, Medium/`Rough`, Heavy/`Iron` armours, `Iron` weapons/shields/accessories, and global Class Relics) together by level band — noting which dungeon first crosses that monster level threshold — while keeping **Dungeon-Specific tables** strictly focused on boss/zone-exclusive drops.
 - **Current Active Focus (`Phase 1`)**:
   - Solo 1-character exploration runs (`Warrior`, `Ranger`, `Mage`, `Paladin`) from `Lv. 1 -> 100`, using **Two-Handed (`2H`) weapons** to minimize item-slot complexity, upgrading basic gold structures only (no gear crafting), advancing dungeons immediately when unlocked, and logging item unlocks by **Dungeon / Boss / Monster** rather than fixed level breakpoints.
 - When helping expand notes for **Lootun**, use iterative, focused questions to help organize:
