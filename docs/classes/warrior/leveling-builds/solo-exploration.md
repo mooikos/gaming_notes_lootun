@@ -36,7 +36,7 @@ nav_order: 1
 
 ### `Lv. 50–99` (Starts Mid-`Frigid Wasteland` at `Lv. 50+` -> `Lv. 100`)
 - **Weapon (`2H`)**: **`Lead Hammer`** (`2H` Hammer — primary `Lv. 50–99` weapon upgrade; `Lead Spear` `2H` Polearm as fallback if hammer hasn't dropped yet)
-- **Armour**: Transition into **`Lead` (Heavy — pure `Armour`)** pieces (`Lead Helmet`, `Lead Bracers`, `Lead Boots`, plus lucky `Jungle Cape` Heavy Cloak if dropped; mixing `Heavy` Medium `Armour + Evasion` upgrades where higher-level)
+- **Armour**: Transition into **`Lead` (Heavy — pure `Armour`)** pieces (`Lead Helmet`, `Lead Bracers`, `Lead Greaves`, `Lead Boots`, plus lucky `Jungle Cape` Heavy Cloak if dropped; mixing `Heavy` Medium `Armour + Evasion` upgrades where higher-level)
 - **Accessories**: Transition into `Lead` accessory set (`Lead Trinket` observed first)
 
 ---
@@ -54,3 +54,4 @@ nav_order: 1
 | 7 | `Scorched Plains` | `Lv. 38 -> 45` | Zone exclusives observed: `Desert Tarsus` (lucky `2H` Polearm), `Scorched Bow` (`Divine` Bow), `Wurm Carapace` (Shield), `Royal Cuffs` (Bracers) |
 | 8 | `Frigid Wasteland` | `Lv. 45 -> 52` | Crosses `Lv. 50` threshold (opens `Lv. 50–99` `Woven`/`Heavy`/`Lead` bases & `Lead` weapons/accessories); exclusives: `Frost Sting`, `Yeti Hide Hood`, `Frozen Talisman` (`Divine`) |
 | 9 | `Jungle Ruins` | `Lv. 52 -> 60` | **`Lead Hammer`** (`2H`) & `Lead Spear` (`2H` fallback) + `Lead Helmet` & `Lead Boots`; exclusives: `Beetle Blade`, `Ritual Knife`, `Living Sash`, `Jungle Cape` (`Heavy`), `Storm Band`, `Lightning Talisman` (`Divine`) |
+| 10 | `Rainforest` | `Lv. 60 -> 68` | Added `Lead Greaves` (Pants); exclusives: `Cleaver`, `Living Root Staff` (`2H` Staff), `Mutant Shell`, `Natures Trust` (`Divine`) |

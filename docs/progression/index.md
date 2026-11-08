@@ -21,6 +21,7 @@ has_children: false
 | 7 | `Scorched Plains` | `Lv. 38 -> 45` | `Lv. 45` | Continues `Lv. 15–49` band; exclusives: `Desert Tarsus` (`2H` Polearm), `Scorched Bow` (`Divine` Bow), `Wurm Carapace`, `Royal Cuffs` |
 | 8 | `Frigid Wasteland` | `Lv. 45 -> 52` | `Lv. 52` | Crosses `Lv. 50` threshold (opens `Lv. 50–99` `Woven` Light, `Heavy` Medium, & `Lead` Heavy/Weapon/Accessory band); exclusives: `Frost Sting` (`1H` Sword), `Yeti Hide Hood`, `Frozen Talisman` (`Divine`) |
 | 9 | `Jungle Ruins` | `Lv. 52 -> 60` | `Lv. 60` | Continues `Lv. 50–99` band (`Lead Hammer` & `Lead Spear` confirmed); exclusives: `Beetle Blade`, `Ritual Knife`, `Living Sash`, `Jungle Cape` (`Heavy`), `Storm Band`, `Lightning Talisman` (`Divine`) |
+| 10 | `Rainforest` | `Lv. 60 -> 68` | `Lv. 68` | Continues `Lv. 50–99` band; exclusives: `Cleaver`, `Living Root Staff` (`2H` Staff), `Mutant Shell`, `Natures Trust` (`Divine`) |
 
 ---
 
