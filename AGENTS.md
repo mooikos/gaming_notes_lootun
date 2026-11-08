@@ -17,8 +17,9 @@ The site is built with Jekyll using the [Just the Docs](https://just-the-docs.co
   - Keep **user-confirmed decisions, builds, and in-game findings** in the main/active sections of each page.
   - Keep **anything not yet confirmed or input by the user** (future post-Phase-1 milestones, general game/community reference notes, tentative build ideas) in a clearly labeled **`Unconfirmed / Future Reference`** section so active focus (`Phase 1`) stays clean and unambiguous.
 - **Deduplicate & Cluster Fragmented Findings Logically**:
-  - Never repeat duplicate item/mechanic observations across multiple dungeons.
-  - Cluster **global monster-level band base items** (e.g., `Lv. 1–14` starter bases, `Lv. 10+` `Copper` accessories, `Lv. 15–49` Light/`Cloth`, Medium/`Rough`, Heavy/`Iron` armours, `Iron` weapons/shields/accessories, and global Class Relics) together by level band — noting which dungeon first crosses that monster level threshold — while keeping **Dungeon-Specific tables** strictly focused on boss/zone-exclusive drops.
+  - Never repeat duplicate item/mechanic observations across multiple dungeons, and **do not list individual standard slot pieces** (`Helmet`, `Boots`, `Gloves`, etc.) once a standard equipment tier prefix is identified.
+  - Record **global standard base tiers by their Tier/Type prefix only** across Monster Level Bands (`Lv. 1–14` `Basic`/`Leather`/`Copper`, `Lv. 15–49` `Cloth`/`Rough`/`Iron`, `Lv. 50–99` `Woven`/`Heavy`/`Lead`), noting only important weapon-category exceptions (e.g., `Hammers` skipping the `Iron` tier so `Iron Spear` is used).
+  - Keep **Dungeon-Specific tables** strictly focused on boss/zone-exclusive (`Notable` & `Divine`) drops.
 - **Current Active Focus (`Phase 1`)**:
   - Solo 1-character exploration runs (`Warrior`, `Ranger`, `Mage`, `Paladin`) from `Lv. 1 -> 100`, using **Two-Handed (`2H`) weapons** to minimize item-slot complexity, upgrading basic gold structures only (no gear crafting), advancing dungeons immediately when unlocked, and logging item unlocks by **Dungeon / Boss / Monster** rather than fixed level breakpoints.
 - When helping expand notes for **Lootun**, use iterative, focused questions to help organize:

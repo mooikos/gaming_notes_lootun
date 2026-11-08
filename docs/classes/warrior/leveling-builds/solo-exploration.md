@@ -21,37 +21,28 @@ nav_order: 1
 
 ---
 
-## Confirmed Warrior Gear Transitions (Clustered by Drop Band)
+## Confirmed Warrior Gear Transitions (By Standard Base Type)
 
-### `Lv. 1–14` (`Woodland` -> `Graveyard` -> Early `Deep Forest`)
-- **Weapon (`2H`)**: `Brutes Warhammer` (`Woodland` boss drop if lucky) -> replaced by higher-level `Basic Hammer` drops once they outscale it
-- **Armour**: `Leather` (Medium — `Armour + Evasion`) set + `Wolf Pelt Cloak` (or `Leather Cloak` fallback)
-- **Accessories (`Lv. 10+`)**: `Copper Amulet`, `Copper Ring`, `Copper Trinket`
-
-### `Lv. 15–49` (Starts Mid-`Deep Forest` at `Lv. 15+` -> Early `Frigid Wasteland`)
-- **Weapon (`2H`)**: **`Iron Spear`** (`2H` Polearm — confirmed default `2H` weapon for this band since `Hammers` lack an `Iron` base; `Desert Tarsus` in `Scorched Plains` is a lucky bonus upgrade if dropped)
-- **Armour**: Transition into **`Iron` (Heavy — pure `Armour`)** pieces (mixing `Rough` Medium pieces as higher-level upgrades drop)
-- **Accessories**: `Iron Chain` (Amulet), `Iron Band` (Ring), `Iron Trinket` (Trinket)
-- **Relic**: `Warrior Relic` (area-independent class drop; equip as soon as found)
-
-### `Lv. 50–99` (Starts Mid-`Frigid Wasteland` at `Lv. 50+` -> `Lv. 100`)
-- **Weapon (`2H`)**: **`Lead Hammer`** (`2H` Hammer — primary `Lv. 50–99` weapon upgrade; `Lead Spear` `2H` Polearm as fallback if hammer hasn't dropped yet)
-- **Armour**: Transition into **`Lead` (Heavy — pure `Armour`)** pieces (`Lead Helmet`, `Lead Bracers`, `Lead Greaves`, `Lead Boots`, plus lucky `Jungle Cape` Heavy Cloak if dropped; mixing `Heavy` Medium `Armour + Evasion` upgrades where higher-level)
-- **Accessories**: Transition into `Lead` accessory set (`Lead Trinket` observed first)
+| Monster Level Band | `2H` Weapon Type | Armour Type (`Heavy` / Fallback) | Accessory Type | Notable Lucky Upgrades (If Dropped) |
+| :--- | :--- | :--- | :--- | :--- |
+| **`Lv. 1–14`** | **`Basic Hammer`** | **`Leather`** type (`Medium`) | **`Copper`** type (`Lv. 10+`) | `Brutes Warhammer` (`2H`), `Wolf Pelt Cloak` (`Medium`) |
+| **`Lv. 15–49`** | **`Iron Spear`** *(no `Iron` Hammer exists)* | **`Iron`** type (`Heavy`) / `Rough` (`Medium`) | **`Iron`** type | `Desert Tarsus` (`2H` Polearm), `Warrior Relic` (any level) |
+| **`Lv. 50–99`** | **`Lead Hammer`** *(`Lead Spear` fallback)* | **`Lead`** type (`Heavy`) / `Heavy` (`Medium`) | **`Lead`** type | `Jungle Cape` (`Heavy` Cloak) |
 
 ---
 
 ## Confirmed Dungeon Progression Path
 
-| # | Dungeon | Levels Stayed | Warrior Leveling Notes |
+| # | Dungeon | Levels Stayed | Key Leveling / Tier Milestones |
 | :--- | :--- | :--- | :--- |
-| 1 | `Woodland` | `Lv. 1 -> 5` | Lucky `Brutes Warhammer` (`2H`) + `Wolf Pelt Cloak` + `Leather` set |
-| 2 | `Graveyard` | `Lv. 5 -> 11` | Higher-level `Basic Hammer` outscales `Lv. 1–5` `Brutes Warhammer` |
-| 3 | `Deep Forest` | `Lv. 11 -> 17` | `Copper` accessories (`Lv. 10+`), then `Lv. 15–49` item pool opens at `Lv. 15` |
-| 4 | `Orc Camp` | `Lv. 17 -> 24` | `Iron Spear` (`2H`), Heavy `Iron` armour pieces, full `Iron` accessories, `Warrior Relic` found |
-| 5 | `Goblin Camp` | `Lv. 24 -> 31` | More Heavy `Iron` slots (`Iron Helmet`, `Iron Belt`, `Iron Boots`); lucky `Ring of Manipulation` (`Divine`) |
-| 6 | `Rock Cave` | `Lv. 31 -> 38` | Added `Iron Greaves` (Pants); zone exclusives observed (`Rockwall` `Divine` Shield, `Stone Carapace`, `Frost Ring`, `Flame Ring`) |
-| 7 | `Scorched Plains` | `Lv. 38 -> 45` | Zone exclusives observed: `Desert Tarsus` (lucky `2H` Polearm), `Scorched Bow` (`Divine` Bow), `Wurm Carapace` (Shield), `Royal Cuffs` (Bracers) |
-| 8 | `Frigid Wasteland` | `Lv. 45 -> 52` | Crosses `Lv. 50` threshold (opens `Lv. 50–99` `Woven`/`Heavy`/`Lead` bases & `Lead` weapons/accessories); exclusives: `Frost Sting`, `Yeti Hide Hood`, `Frozen Talisman` (`Divine`) |
-| 9 | `Jungle Ruins` | `Lv. 52 -> 60` | **`Lead Hammer`** (`2H`) & `Lead Spear` (`2H` fallback) + `Lead Helmet` & `Lead Boots`; exclusives: `Beetle Blade`, `Ritual Knife`, `Living Sash`, `Jungle Cape` (`Heavy`), `Storm Band`, `Lightning Talisman` (`Divine`) |
-| 10 | `Rainforest` | `Lv. 60 -> 68` | Added `Lead Greaves` (Pants); exclusives: `Cleaver`, `Living Root Staff` (`2H` Staff), `Mutant Shell`, `Natures Trust` (`Divine`) |
+| 1 | `Woodland` | `Lv. 1 -> 5` | Starter `Basic` / `Leather` tier; lucky `Brutes Warhammer` (`2H`) & `Wolf Pelt Cloak` |
+| 2 | `Graveyard` | `Lv. 5 -> 11` | Higher-level `Basic Hammer` outscales `Lv. 1–5` `Brutes Warhammer`; `Copper` accessories start at `Lv. 10+` |
+| 3 | `Deep Forest` | `Lv. 11 -> 17` | Opens **`Lv. 15–49`** base tier (`Cloth` / `Rough` / `Iron`) at `Lv. 15+` |
+| 4 | `Orc Camp` | `Lv. 17 -> 24` | `Iron Spear` (`2H`), `Iron` armour & accessories, `Warrior Relic` found |
+| 5 | `Goblin Camp` | `Lv. 24 -> 31` | Continues `Lv. 15–49` `Iron` tier |
+| 6 | `Rock Cave` | `Lv. 31 -> 38` | Continues `Lv. 15–49` `Iron` tier |
+| 7 | `Scorched Plains` | `Lv. 38 -> 45` | Continues `Lv. 15–49` `Iron` tier (`Desert Tarsus` lucky `2H` Polearm possible) |
+| 8 | `Frigid Wasteland` | `Lv. 45 -> 52` | Opens **`Lv. 50–99`** base tier (`Woven` / `Heavy` / `Lead`) at `Lv. 50+` |
+| 9 | `Jungle Ruins` | `Lv. 52 -> 60` | **`Lead Hammer`** (`2H`) & `Lead Spear` (`2H` fallback) online |
+| 10 | `Rainforest` | `Lv. 60 -> 68` | Continues `Lv. 50–99` `Lead` tier |
+| 11 | `Menagerie` | `Lv. 68 -> 76` | Continues `Lv. 50–99` `Lead` tier |
