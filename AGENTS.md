@@ -21,7 +21,7 @@ The site is built with Jekyll using the [Just the Docs](https://just-the-docs.co
   - Record **global standard base tiers by their Tier/Type prefix only** across Monster Level Bands (`Lv. 1–14` `Basic`/`Leather`/`Copper`, `Lv. 15–49` `Cloth`/`Rough`/`Iron`, `Lv. 50–99` `Woven`/`Heavy`/`Lead`), noting only important weapon-category exceptions (e.g., `Hammers` skipping the `Iron` tier so `Iron Spear` is used).
   - Keep **Dungeon-Specific tables** strictly focused on boss/zone-exclusive (`Notable` & `Divine`) drops.
 - **Current Active Focus (`Phase 1`)**:
-  - Solo 1-character exploration runs (`Warrior`, `Ranger`, `Mage`, `Paladin`) from `Lv. 1 -> 100`, using **Two-Handed (`2H`) weapons** to minimize item-slot complexity, upgrading basic gold structures only (no gear crafting), advancing dungeons immediately when unlocked, and logging item unlocks by **Dungeon / Boss / Monster** rather than fixed level breakpoints.
+  - Solo 1-character-at-a-time exploration runs (`Warrior` [Done] -> `Ranger` [Active] -> `Mage` -> `Paladin`) from `Lv. 1 -> 100` inside the **same shared save file**, using **Two-Handed (`2H`) weapons** to minimize item-slot complexity, upgrading basic gold structures only (no gear crafting), advancing dungeons immediately when unlocked, and logging item unlocks by **Monster Level Band & Dungeon**.
 - When helping expand notes for **Lootun**, use iterative, focused questions to help organize:
   - **Active Phase 1 exploration logs & milestones** (`docs/milestones/`, `docs/classes/<class>/leveling-builds/`, `docs/items-crafting/by-level.md`).
   - **User-fed discoveries**, such as dungeon/boss/monster item drops, skill combinations, and progression walls.

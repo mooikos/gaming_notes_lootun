@@ -89,6 +89,13 @@ Deduplicated item progression clustered into:
 | 13 | **`Boneyard`** (`Lv. 84 -> 92`) | `Great Helm` | Helm (`Unsure`) | Boss / Notable | Lucky helm drop |
 | 13 | **`Boneyard`** (`Lv. 84 -> 92`) | `Spiked Shield` | Shield | Boss / Notable | Lucky shield drop |
 | 13 | **`Boneyard`** (`Lv. 84 -> 92`) | `Royal Signet Ring` | Ring | Boss / Notable | Lucky ring drop |
+| 14 | **`Abandoned Lab`** (`Lv. 92 -> 100`) | `Clockwork Rifle` | `2H` Gun | Boss / Notable | Lucky `2H` gun drop (potential **Ranger** `2H` upgrade if lucky) |
+| 14 | **`Abandoned Lab`** (`Lv. 92 -> 100`) | `Mechanical Bow` | `2H` Bow | Boss / Notable | Lucky `2H` bow drop (potential **Ranger** `2H` upgrade if lucky) |
+| 14 | **`Abandoned Lab`** (`Lv. 92 -> 100`) | `Bouncers Breastplate` | Chest (`Heavy`) | Boss / Notable | Lucky **Heavy** chest drop |
+| 14 | **`Abandoned Lab`** (`Lv. 92 -> 100`) | `Toxic Waders` | Boots (`Light`) | Boss / Notable | Lucky **Light** boots drop |
+| 14 | **`Abandoned Lab`** (`Lv. 92 -> 100`) | `Mechanical Fixture` | Trinket | Boss / Notable | Lucky trinket drop |
+| 14 | **`Abandoned Lab`** (`Lv. 92 -> 100`) | `Clockwork Heart` | Amulet | `Divine` / Later | Lucky `Divine` amulet drop |
+| 15 | **`Demons Lair`** (`Lv. 100` map, unlocked at `Lv. 98`) | *(Queued for post-exploration)* | — | `Lv. 100+` | Unlocked at `Lv. 98`; paused while leveling remaining classes to `Lv. 100` |
 
 ---
 

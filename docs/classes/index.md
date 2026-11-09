@@ -6,10 +6,10 @@ has_children: true
 
 # Classes & Ascendancies
 
-## Confirmed Phase 1 Exploration Order (`Solo 2H`, `Lv. 1 -> 100`)
+## Confirmed Phase 1 Exploration Order (`Solo 2H` in Shared Save, `Lv. 1 -> 100`)
 
-1. **[Warrior](classes/warrior)** — [Solo 2H Leveling Exploration](classes/warrior/leveling-builds/solo-exploration) · [Endgame Builds (Unconfirmed)](classes/warrior/endgame-builds/overview)
-2. **[Ranger](classes/ranger)** — [Solo 2H Leveling Exploration](classes/ranger/leveling-builds/solo-exploration) · [Endgame Builds (Unconfirmed)](classes/ranger/endgame-builds/overview)
+1. **[Warrior](classes/warrior)** *(Completed `Lv. 1 -> 100`; Ascendancies confirmed: `Barbarian`, `Juggernaut`, `Warden`)* — [Solo 2H Leveling Exploration](classes/warrior/leveling-builds/solo-exploration) · [Endgame Builds (Unconfirmed)](classes/warrior/endgame-builds/overview)
+2. **[Ranger](classes/ranger)** *(Active Run)* — [Solo 2H Leveling Exploration](classes/ranger/leveling-builds/solo-exploration) · [Endgame Builds (Unconfirmed)](classes/ranger/endgame-builds/overview)
 3. **[Mage](classes/mage)** — [Solo 2H Leveling Exploration](classes/mage/leveling-builds/solo-exploration) · [Endgame Builds (Unconfirmed)](classes/mage/endgame-builds/overview)
 4. **[Paladin](classes/paladin)** — [Solo 2H Leveling Exploration](classes/paladin/leveling-builds/solo-exploration) · [Endgame Builds (Unconfirmed)](classes/paladin/endgame-builds/overview)
 

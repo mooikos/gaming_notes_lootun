@@ -27,11 +27,11 @@ nav_order: 1
 | :--- | :--- | :--- | :--- | :--- |
 | **`Lv. 1–14`** | **`Basic Hammer`** | **`Leather`** type (`Medium`) | **`Copper`** type (`Lv. 10+`) | `Brutes Warhammer` (`2H`), `Wolf Pelt Cloak` (`Medium`) |
 | **`Lv. 15–49`** | **`Iron Spear`** *(no `Iron` Hammer exists)* | **`Iron`** type (`Heavy`) / `Rough` (`Medium`) | **`Iron`** type | `Desert Tarsus` (`2H` Polearm), `Warrior Relic` (any level) |
-| **`Lv. 50–99`** | **`Lead Hammer`** *(`Lead Spear` fallback)* | **`Lead`** type (`Heavy`) / `Heavy` (`Medium`) | **`Lead`** type | `Jungle Cape` (`Heavy` Cloak) |
+| **`Lv. 50–99`** | **`Lead Hammer`** *(`Lead Spear` fallback)* | **`Lead`** type (`Heavy`) / `Heavy` (`Medium`) | **`Lead`** type | `Jungle Cape` (`Heavy` Cloak), `Bouncers Breastplate` (`Heavy` Chest) |
 
 ---
 
-## Confirmed Dungeon Progression Path
+## Confirmed Dungeon Progression Path (`Completed Lv. 1 -> 100`)
 
 | # | Dungeon | Levels Stayed | Key Leveling / Tier Milestones |
 | :--- | :--- | :--- | :--- |
@@ -48,3 +48,4 @@ nav_order: 1
 | 11 | `Menagerie` | `Lv. 68 -> 76` | Continues `Lv. 50–99` `Lead` tier |
 | 12 | `Ancient Tomb` | `Lv. 76 -> 84` | Continues `Lv. 50–99` `Lead` tier |
 | 13 | `Boneyard` | `Lv. 84 -> 92` | Continues `Lv. 50–99` `Lead` tier |
+| 14 | `Abandoned Lab` | `Lv. 92 -> 100` | Unlocks `15. Demons Lair` (`Lv. 100` map) at `Lv. 98`; reached **`Lv. 100`** & confirmed Ascendancies (`Barbarian`, `Juggernaut`, `Warden`) |
