@@ -78,6 +78,12 @@ Deduplicated item progression clustered into:
 | 11 | **`Menagerie`** (`Lv. 68 -> 76`) | `Flurry Cloak` | Cloak (`Unsure`) | `Divine` / Later | Lucky `Divine` cloak drop |
 | 11 | **`Menagerie`** (`Lv. 68 -> 76`) | `Hybrid Band` | Ring | Boss / Notable | Lucky ring drop |
 | 11 | **`Menagerie`** (`Lv. 68 -> 76`) | `Cockatrice Talon` | Trinket | Boss / Notable | Lucky trinket drop |
+| 12 | **`Ancient Tomb`** (`Lv. 76 -> 84`) | `Wailing Tome` | Spell Tome | Boss / Notable | Lucky spell tome drop |
+| 12 | **`Ancient Tomb`** (`Lv. 76 -> 84`) | `Wightsbane` | Sword | Boss / Notable | Lucky sword drop |
+| 12 | **`Ancient Tomb`** (`Lv. 76 -> 84`) | `Witch Hunter Crossbow` | `2H` Crossbow | Boss / Notable | Lucky `2H` crossbow drop (potential **Ranger** `2H` upgrade if lucky) |
+| 12 | **`Ancient Tomb`** (`Lv. 76 -> 84`) | `Decaying Wrappings` | Chest (`Unsure`) | Boss / Notable | Lucky chest drop |
+| 12 | **`Ancient Tomb`** (`Lv. 76 -> 84`) | `Lords Cape` | Cloak (`Unsure`) | Boss / Notable | Lucky cloak drop |
+| 12 | **`Ancient Tomb`** (`Lv. 76 -> 84`) | `Vampiric Brace` | Bracers (`Unsure`) | Boss / Notable (`Divine`?) | Lucky bracers drop |
 
 ---
 

@@ -46,3 +46,4 @@ nav_order: 1
 | 9 | `Jungle Ruins` | `Lv. 52 -> 60` | **`Lead Hammer`** (`2H`) & `Lead Spear` (`2H` fallback) online |
 | 10 | `Rainforest` | `Lv. 60 -> 68` | Continues `Lv. 50–99` `Lead` tier |
 | 11 | `Menagerie` | `Lv. 68 -> 76` | Continues `Lv. 50–99` `Lead` tier |
+| 12 | `Ancient Tomb` | `Lv. 76 -> 84` | Continues `Lv. 50–99` `Lead` tier |

@@ -23,6 +23,7 @@ has_children: false
 | 9 | `Jungle Ruins` | `Lv. 52 -> 60` | `Lv. 60` | Continues `Lv. 50–99` band (`Lead Hammer` & `Lead Spear` confirmed); exclusives: `Beetle Blade`, `Ritual Knife`, `Living Sash`, `Jungle Cape` (`Heavy`), `Storm Band`, `Lightning Talisman` (`Divine`) |
 | 10 | `Rainforest` | `Lv. 60 -> 68` | `Lv. 68` | Continues `Lv. 50–99` band; exclusives: `Cleaver`, `Living Root Staff` (`2H` Staff), `Mutant Shell`, `Natures Trust` (`Divine`) |
 | 11 | `Menagerie` | `Lv. 68 -> 76` | `Lv. 76` | Continues `Lv. 50–99` band; exclusives: `Ivory Blade`, `Horned Mace`, `Handlers Gloves`, `Ox Hide Pants`, `Flurry Cloak` (`Divine`), `Hybrid Band`, `Cockatrice Talon` |
+| 12 | `Ancient Tomb` | `Lv. 76 -> 84` | `Lv. 84` | Continues `Lv. 50–99` band; exclusives: `Wailing Tome`, `Wightsbane`, `Witch Hunter Crossbow` (`2H`), `Decaying Wrappings`, `Lords Cape`, `Vampiric Brace` |
 
 ---
 
