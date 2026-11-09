@@ -84,6 +84,11 @@ Deduplicated item progression clustered into:
 | 12 | **`Ancient Tomb`** (`Lv. 76 -> 84`) | `Decaying Wrappings` | Chest (`Unsure`) | Boss / Notable | Lucky chest drop |
 | 12 | **`Ancient Tomb`** (`Lv. 76 -> 84`) | `Lords Cape` | Cloak (`Unsure`) | Boss / Notable | Lucky cloak drop |
 | 12 | **`Ancient Tomb`** (`Lv. 76 -> 84`) | `Vampiric Brace` | Bracers (`Unsure`) | Boss / Notable (`Divine`?) | Lucky bracers drop |
+| 13 | **`Boneyard`** (`Lv. 84 -> 92`) | `Bone Blade` | Dagger | Boss / Notable | Lucky dagger drop |
+| 13 | **`Boneyard`** (`Lv. 84 -> 92`) | `Praetorian Guard` | Sword | `Divine` / Later | Lucky `Divine` sword drop |
+| 13 | **`Boneyard`** (`Lv. 84 -> 92`) | `Great Helm` | Helm (`Unsure`) | Boss / Notable | Lucky helm drop |
+| 13 | **`Boneyard`** (`Lv. 84 -> 92`) | `Spiked Shield` | Shield | Boss / Notable | Lucky shield drop |
+| 13 | **`Boneyard`** (`Lv. 84 -> 92`) | `Royal Signet Ring` | Ring | Boss / Notable | Lucky ring drop |
 
 ---
 

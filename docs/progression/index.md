@@ -24,6 +24,7 @@ has_children: false
 | 10 | `Rainforest` | `Lv. 60 -> 68` | `Lv. 68` | Continues `Lv. 50–99` band; exclusives: `Cleaver`, `Living Root Staff` (`2H` Staff), `Mutant Shell`, `Natures Trust` (`Divine`) |
 | 11 | `Menagerie` | `Lv. 68 -> 76` | `Lv. 76` | Continues `Lv. 50–99` band; exclusives: `Ivory Blade`, `Horned Mace`, `Handlers Gloves`, `Ox Hide Pants`, `Flurry Cloak` (`Divine`), `Hybrid Band`, `Cockatrice Talon` |
 | 12 | `Ancient Tomb` | `Lv. 76 -> 84` | `Lv. 84` | Continues `Lv. 50–99` band; exclusives: `Wailing Tome`, `Wightsbane`, `Witch Hunter Crossbow` (`2H`), `Decaying Wrappings`, `Lords Cape`, `Vampiric Brace` |
+| 13 | `Boneyard` | `Lv. 84 -> 92` | `Lv. 92` | Continues `Lv. 50–99` band; exclusives: `Bone Blade`, `Praetorian Guard` (`Divine` Sword), `Great Helm`, `Spiked Shield`, `Royal Signet Ring` |
 
 ---
 

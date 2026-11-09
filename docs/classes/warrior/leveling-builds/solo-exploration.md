@@ -47,3 +47,4 @@ nav_order: 1
 | 10 | `Rainforest` | `Lv. 60 -> 68` | Continues `Lv. 50–99` `Lead` tier |
 | 11 | `Menagerie` | `Lv. 68 -> 76` | Continues `Lv. 50–99` `Lead` tier |
 | 12 | `Ancient Tomb` | `Lv. 76 -> 84` | Continues `Lv. 50–99` `Lead` tier |
+| 13 | `Boneyard` | `Lv. 84 -> 92` | Continues `Lv. 50–99` `Lead` tier |
