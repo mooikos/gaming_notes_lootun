@@ -49,3 +49,4 @@ nav_order: 1
 | 12 | `Ancient Tomb` | `Lv. 76 -> 84` | Continues `Lv. 50–99` `Lead` tier |
 | 13 | `Boneyard` | `Lv. 84 -> 92` | Continues `Lv. 50–99` `Lead` tier |
 | 14 | `Abandoned Lab` | `Lv. 92 -> 100` | Unlocks `15. Demons Lair` (`Lv. 100` map) at `Lv. 98`; reached **`Lv. 100`** & confirmed Ascendancies (`Barbarian`, `Juggernaut`, `Warden`) |
+| 15 | `Demons Lair` | `Lv. 100–101+` *(Bonus Task Clear)* | Cleared 1 run + `Lv. 101+` boss Task for **Epic materials + `Rubies`** to unlock automatic Profession farming before starting Ranger; discovered `Lv. 100–124` (`Silk` / `Rugged` / `Gold`) base tiers |

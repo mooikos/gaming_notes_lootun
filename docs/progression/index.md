@@ -26,7 +26,7 @@ has_children: false
 | 12 | `Ancient Tomb` | `Lv. 76 -> 84` | `Lv. 84` | Continues `Lv. 50–99` band; exclusives: `Wailing Tome`, `Wightsbane`, `Witch Hunter Crossbow` (`2H`), `Decaying Wrappings`, `Lords Cape`, `Vampiric Brace` |
 | 13 | `Boneyard` | `Lv. 84 -> 92` | `Lv. 92` | Continues `Lv. 50–99` band; exclusives: `Bone Blade`, `Praetorian Guard` (`Divine` Sword), `Great Helm`, `Spiked Shield`, `Royal Signet Ring` |
 | 14 | `Abandoned Lab` | `Lv. 92 -> 100` | `Lv. 98` | Final `Lv. 1 -> 100` leveling dungeon; exclusives: `Clockwork Rifle` (`2H` Gun), `Mechanical Bow` (`2H` Bow), `Bouncers Breastplate` (`Heavy` Chest), `Toxic Waders` (`Light` Boots), `Mechanical Fixture`, `Clockwork Heart` (`Divine` Amulet) |
-| 15 | `Demons Lair` | *(Unlocked at `Lv. 98`)* | — | Confirmed **`Lv. 100` map** (paused while leveling remaining classes to `Lv. 100`) |
+| 15 | `Demons Lair` | `Lv. 100–101+` *(Task Clear)* | — | Cleared 1x `Demons Lair` + `Lv. 101+` boss Task to unlock **Epic materials + `Rubies`** for automatic Profession farming; opens **`Lv. 100–124`** base tier (`Silk` Light, `Rugged` Medium, `Gold` Heavy/Accessories) |
 
 ---
 

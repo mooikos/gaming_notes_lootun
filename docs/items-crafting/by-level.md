@@ -15,11 +15,12 @@ Deduplicated item progression clustered into:
 
 ## 1. Confirmed Global Base Equipment Tiers (By Monster Level Band)
 
-| Monster Level Band | First Appears In | Light Armour (`Armour + Barrier`) | Medium Armour (`Armour + Evasion`) | Heavy Armour (`Pure Armour`) | Accessories (`Amulet / Ring / Trinket`) | `2H` Melee Weapon Tier & Notes |
+| Monster Level Band | First Appears In | Light Armour (`Armour + Barrier`) | Medium Armour (`Armour + Evasion`) | Heavy Armour (`Pure Armour`) | Accessories (`Amulet / Ring / Trinket`) | `2H` Weapon Tier Notes |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **`Lv. 1–14`** | `1. Woodland` (`Accessories` at `Lv. 10+`) | — | **`Leather`** type | — | **`Copper`** type (`Lv. 10+`) | **`Basic`** type (`Basic Hammer` `2H`) |
 | **`Lv. 15–49`** | `3. Deep Forest` (`Lv. 15+`) | **`Cloth`** type | **`Rough`** type | **`Iron`** type | **`Iron`** type | **`Iron`** type (`Hammers` skip `Iron` -> use **`Iron Spear`** `2H` Polearm) |
 | **`Lv. 50–99`** | `8. Frigid Wasteland` (`Lv. 50+`) | **`Woven`** type | **`Heavy`** type *(Medium weight despite `"Heavy"` name)* | **`Lead`** type | **`Lead`** type | **`Lead`** type (**`Lead Hammer`** `2H` primary, `Lead Spear` `2H` fallback) |
+| **`Lv. 100–124`** | `15. Demons Lair` (`Lv. 100+`) | **`Silk`** type | **`Rugged`** type | **`Gold`** type | **`Gold`** type | *TBD* |
 
 ---
 
@@ -95,7 +96,14 @@ Deduplicated item progression clustered into:
 | 14 | **`Abandoned Lab`** (`Lv. 92 -> 100`) | `Toxic Waders` | Boots (`Light`) | Boss / Notable | Lucky **Light** boots drop |
 | 14 | **`Abandoned Lab`** (`Lv. 92 -> 100`) | `Mechanical Fixture` | Trinket | Boss / Notable | Lucky trinket drop |
 | 14 | **`Abandoned Lab`** (`Lv. 92 -> 100`) | `Clockwork Heart` | Amulet | `Divine` / Later | Lucky `Divine` amulet drop |
-| 15 | **`Demons Lair`** (`Lv. 100` map, unlocked at `Lv. 98`) | *(Queued for post-exploration)* | — | `Lv. 100+` | Unlocked at `Lv. 98`; paused while leveling remaining classes to `Lv. 100` |
+| 15 | **`Demons Lair`** (`Lv. 100+`) | `Grounding Boots` | Boots (`Medium`) | Boss / Notable | Lucky **Medium** boots drop |
+| 15 | **`Demons Lair`** (`Lv. 100+`) | `Demon Hide Greaves` | Pants (`Unsure`) | Boss / Notable | Lucky pants drop |
+| 15 | **`Demons Lair`** (`Lv. 100+`) | `Shadowscale Guards` | Pants (`Unsure`) | `Divine` / Later | Lucky `Divine` pants drop |
+| 15 | **`Demons Lair`** (`Lv. 100+`) | `Demonic Claws` | Fist Weapon | Boss / Notable | Lucky fist weapon drop |
+| 15 | **`Demons Lair`** (`Lv. 100+`) | `Demonic Tome` | Spell Tome | Boss / Notable | Lucky spell tome drop |
+| 15 | **`Demons Lair`** (`Lv. 100+`) | `Hellscale Quiver` | Quiver (Off-Hand) | Boss / Notable | Lucky quiver drop |
+| 15 | **`Demons Lair`** (`Lv. 100+`) | `Demonic Sinstone` | Ward (Off-Hand) | Boss / Notable | Lucky ward drop |
+| 15 | **`Demons Lair`** (`Lv. 100+`) | `Blood Crystal` | Amulet | Boss / Notable | Lucky amulet drop |
 
 ---
 

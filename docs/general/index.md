@@ -9,7 +9,9 @@ has_children: false
 ## Confirmed Notes (From Gameplay)
 
 - **Phase 1 Base Rule**: Spend gold on basic base structures during Solo `Lv. 1 -> 100` runs while keeping gear crafting disabled.
-- *(Add verified gameplay mechanics & personal observations here during Phase 1.)*
+- **Automatic Profession Farming Unlock (`Tasks` + `Rubies`)**:
+  - The Mission tab includes a **`Tasks`** page where completing **1 run of `Demons Lair` (`Lv. 100`)** rewards enough **Epic materials** for the automatic Profession farming upgrade (enabling passive resource collection while leveling alts).
+  - Building that upgrade also requires **`Rubies`**, which unlock by completing the Task to **slay a `Lv. 101+` boss**.
 
 ---
 
