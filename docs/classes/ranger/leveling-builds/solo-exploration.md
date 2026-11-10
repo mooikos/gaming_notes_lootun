@@ -32,6 +32,6 @@ nav_order: 1
 
 ---
 
-## Confirmed Ranger Leveling Observations (User-Fed)
+## Confirmed Ranger Leveling Observations (`Completed Lv. 1 -> 100`)
 
-*(Awaiting standard `2H` Gun tier observations and new drops discovered during the Ranger climb.)*
+- Reached **`Lv. 100`** smoothly in the shared save file using `Quick Draw` / `Blade Flurry` / `Smokescreen` + `2H` Guns and standard Medium (`Leather` -> `Rough` -> `Heavy`) armour tiers with no special roadblocks.

@@ -9,6 +9,6 @@ Drop exported **Lootun** plain-text save strings (`.txt` or raw text files) dire
 ## Planned Exploration Checkpoints (`Lv. 1 -> Lv. 100`, Shared Save File)
 - **Shared Save File** leveling each class solo (`Lv. 1 -> 100`):
   - **Warrior** (`Lv. 1 -> 100` completed)
-  - **Ranger** (`Lv. 1 -> 100` active)
-  - **Mage** (`Lv. 1 -> 100` queued)
+  - **Ranger** (`Lv. 1 -> 100` completed)
+  - **Mage** (`Lv. 1 -> 100` active)
   - **Paladin** (`Lv. 1 -> 100` queued)

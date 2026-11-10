@@ -11,7 +11,7 @@ High-speed agile combatant focused on ranged physical attacks, dual-wield attack
 
 ## Leveling Builds (`leveling-builds/`)
 
-- [Solo Exploration (`Lv. 1 -> 100`)](ranger/leveling-builds/solo-exploration) — Item-driven leveling progression log across level brackets
+- [Solo Exploration (`Lv. 1 -> 100`, Completed)](ranger/leveling-builds/solo-exploration) — Item-driven `2H` Gun leveling progression across monster level bands & dungeons
 
 ## Endgame Builds (`endgame-builds/`)
 

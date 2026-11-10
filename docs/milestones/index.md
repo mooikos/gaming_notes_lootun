@@ -12,21 +12,22 @@ Level each Base Class **solo (`1` character at a time) inside the same shared sa
 
 ### Confirmed Phase 1 Rules
 1. **Solo Leveling in a Shared Save File**: Level one hero at a time (`Warrior` -> `Ranger` -> `Mage` -> `Paladin`) inside the **same save file** from `Lv. 1 -> 100`.
-2. **Two-Handed (`2H`) Weapons Across All Explorations**: Stick to **Two-Handed weapons** (`2H Melee`, `2H Ranged`, `2H Staff`) to eliminate off-hand / dual-wield / shield slot complexity while hunting upgrades.
+2. **Two-Handed (`2H`) Weapons Across All Explorations**: Stick to **Two-Handed weapons** (`2H Melee`, `2H Gun`, `2H Staff`) to eliminate off-hand / dual-wield / shield slot complexity while hunting upgrades.
 3. **Always Advance Dungeon / Mission**: Move to the next unlocked Mission / Dungeon immediately whenever available.
 4. **Basic Gold Structures ON, Gear Crafting OFF**: Spend gold on basic base structures, while skipping gear crafting completely during Phase 1.
 5. **Track Unlocks by Monster Level Band & Dungeon**: Feed standard base types and dungeon-exclusive drops into [Items by Monster Level Band & Dungeon](items-crafting/by-level) and log class-specific leveling notes in each class's `leveling-builds/` page.
-6. **Pause at Level 100 per Class**: Reach Lv. 100 (Ascendancy unlock), verify class Ascendancies, and repeat for the next class before re-strategizing or pushing `Lv. 100+` maps (`Demons Lair`).
+6. **Pause at Level 100 per Class**: Reach Lv. 100 (Ascendancy unlock) and repeat for the next class before re-strategizing.
 
 ### Phase 1 Checklist
-- [x] **Run 1 — Solo 2H Warrior (`Lv. 1 -> 100`)**: Completed [Warrior Leveling Exploration](classes/warrior/leveling-builds/solo-exploration), mapped dungeons `1. Woodland` -> `14. Abandoned Lab` (unlocking `15. Demons Lair` at `Lv. 98`), and confirmed `Barbarian` / `Juggernaut` / `Warden` Ascendancies
-- [ ] **Run 2 — Solo 2H Ranger (`Lv. 1 -> 100`)** *(Active)*: Log [Ranger Leveling Builds](classes/ranger/leveling-builds/solo-exploration) & `2H` Ranged weapon tier progression in the shared save
-- [ ] **Run 3 — Solo 2H Mage (`Lv. 1 -> 100`)**: Log [Mage Leveling Builds](classes/mage/leveling-builds/solo-exploration) & `2H` Staff / Light armour progression in the shared save
+- [x] **Run 1 — Solo 2H Warrior (`Lv. 1 -> 100`)**: Completed [Warrior Leveling Exploration](classes/warrior/leveling-builds/solo-exploration), mapped dungeons `1. Woodland` -> `14. Abandoned Lab` + `15. Demons Lair` (`Lv. 100–101+` auto-profession Task clear), and confirmed `Barbarian` / `Juggernaut` / `Warden` Ascendancies
+- [x] **Run 2 — Solo 2H Ranger (`Lv. 1 -> 100`)**: Completed [Ranger Leveling Exploration](classes/ranger/leveling-builds/solo-exploration) (`Quick Draw` / `Blade Flurry` / `Smokescreen` + `2H` Guns) in the shared save
+- [ ] **Run 3 — Solo 2H Mage (`Lv. 1 -> 100`)** *(Active)*: Log [Mage Leveling Builds](classes/mage/leveling-builds/solo-exploration) (`Fireball` / `Firestorm` / `Stasis` + `2H` Staff) in the shared save
 - [ ] **Run 4 — Solo 2H Paladin (`Lv. 1 -> 100`)**: Log [Paladin Leveling Builds](classes/paladin/leveling-builds/solo-exploration) & `2H` Paladin progression in the shared save
 - [ ] **Re-Strategize**: Review all 4 solo runs and item tables to plan the next phase
 
 ### Completed Milestones
-- **Run 1 — Solo 2H Warrior (`Lv. 1 -> 100`)**: Reached `Lv. 100` using starting skills (`Quick Slash`, `Armour Break`, `Ground Slam`) and `2H` progression (`Basic Hammer` -> `Iron Spear` -> `Lead Hammer`), mapped all leveling dungeons up to `Abandoned Lab` (`Lv. 92 -> 100`) + unlocked `Demons Lair` (`Lv. 100` map), and confirmed Warrior Ascendancies (`Barbarian`, `Juggernaut`, `Warden`).
+- **Run 1 — Solo 2H Warrior (`Lv. 1 -> 100`)**: Reached `Lv. 100` using starting skills (`Quick Slash`, `Armour Break`, `Ground Slam`) and `2H` progression (`Basic Hammer` -> `Iron Spear` -> `Lead Hammer`), mapped all leveling dungeons up to `Abandoned Lab` (`Lv. 92 -> 100`) + cleared `Demons Lair` (`Lv. 100–101+` Task) for passive Profession farming, and confirmed Warrior Ascendancies (`Barbarian`, `Juggernaut`, `Warden`).
+- **Run 2 — Solo 2H Ranger (`Lv. 1 -> 100`)**: Reached `Lv. 100` smoothly in the shared save using starting skills (`Quick Draw`, `Blade Flurry`, `Smokescreen`), `2H` Guns, and Medium (`Leather` -> `Rough` -> `Heavy`) armour tiers.
 
 ---
 
